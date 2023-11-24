@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "64e8f94e1a69ac6b323b27f8"
+  },
+  "codigo": "100 0 008",
+  "nombrePartida": "DIRECCION DE DESARROLLO PRODUCTIVO Y ECONOMIA PLURAL",
+  "fuenteFinanciamiento": 41,
+  "organismoFinanciador": 111,
+  "activo": true,
+  "tipoGasto": "SERVICIOS PERSONALES",
+  "objetivo": "PROMOCION Y FOMENTO AL DESARROLLO PRODUCTIVO"
+},
+{
+  "_id": {
+    "$oid": "64e8fd451a69ac6b323b27fb"
+  },
+  "codigo": "130 1212",
+  "nombrePartida": "DIRECCION DE  MEDIO AMBIENTE Y MADRE TIERRA",
+  "fuenteFinanciamiento": 20,
+  "organismoFinanciador": 211,
+  "activo": false,
+  "tipoGasto": "SERVICIOS PERSONALES",
+  "objetivo": "APOYO A LA PRESERVACION AL MEDIO AMBIENTE"
+},
+{
+  "_id": {
+    "$oid": "650df1f7ce057da78eb6abac"
+  },
+  "codigo": "12",
+  "nombrePartida": "12",
+  "fuenteFinanciamiento": 12,
+  "organismoFinanciador": 12,
+  "tipoGasto": "12",
+  "objetivo": "12",
+  "activo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650df84aa0fe2c73708217db"
+  },
+  "codigo": "123",
+  "nombrePartida": "1",
+  "fuenteFinanciamiento": 1,
+  "organismoFinanciador": 1,
+  "tipoGasto": "1",
+  "objetivo": "1",
+  "activo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650dff0c4fca3ea7eb97bfc2"
+  },
+  "codigo": "1",
+  "nombrePartida": "1",
+  "fuenteFinanciamiento": 1,
+  "organismoFinanciador": 1,
+  "tipoGasto": "1",
+  "objetivo": "1",
+  "activo": true,
+  "__v": 0
+}]

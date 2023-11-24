@@ -1,0 +1,8034 @@
+[{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed82"
+  },
+  "nombre": "RENE",
+  "paterno": "GUARAYO",
+  "materno": "ZENTENO",
+  "dni": "6410852",
+  "telefono": 72709108,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DESARROLLO DE SISTEMAS",
+  "cargo": {
+    "$oid": "64b19b7f194dc46c62539798"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed83"
+  },
+  "nombre": "GONZALO HUGO",
+  "paterno": "FUENTES",
+  "materno": "SANTIVAÑEZ",
+  "dni": "4050756",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE PLANIFICACION Y DES. INTEGRAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfaf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed84"
+  },
+  "nombre": "SAMUEL",
+  "paterno": "CARBALLO",
+  "materno": "CABRERA",
+  "dni": "6405552",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "STRIO. MPAL. DE DESARROLLO HUMANO INTEGRAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed85"
+  },
+  "nombre": "ELFY A.",
+  "paterno": "FLORES",
+  "materno": "VASQUEZ",
+  "dni": "5263979",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "STRIA. MPAL. MADRE TIERRA Y DESARROLLO. PROD.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed86"
+  },
+  "nombre": "BLANCA DAISY ",
+  "paterno": "LAZARTE ",
+  "materno": "BALDELOMAR",
+  "dni": "8683357",
+  "telefono": 76436414,
+  "direccion": "TUSCAPUJIO ALTO",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE SMPDT",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed87"
+  },
+  "nombre": "RONALD ",
+  "paterno": "BALDELLON",
+  "materno": "ALVAREZ",
+  "dni": "4465848",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "STRIO. MPAL. DE INFRAESTRUCTURA Y SERVICIOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed88"
+  },
+  "nombre": "MARLENE",
+  "paterno": "ALVARADO ",
+  "materno": "GONZALES",
+  "dni": "7907345",
+  "telefono": 75992089,
+  "direccion": "Sacaba ",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE MEDIO AMBIENTE Y DE LA MADRE TIERRA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed89"
+  },
+  "nombre": "DELIA",
+  "paterno": "MONTAÑO",
+  "materno": "LEDEZMA",
+  "dni": "7995545",
+  "telefono": 74806644,
+  "direccion": "URB. LAB AV. VILLAZON KM 8",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE OBRAS PUBLICAS ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfbb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed8a"
+  },
+  "nombre": "HEYDDY  L.",
+  "paterno": "TRUJILLO ",
+  "materno": "RODRIGUEZ",
+  "dni": "5252238",
+  "telefono": 71490732,
+  "direccion": "DISTRITO 6 AV JUAN JOSE TORREZ ",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE DESARROLLO PRODUCTIVO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfbd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed8b"
+  },
+  "nombre": "RIVER",
+  "paterno": "FIORILO",
+  "materno": "MENESES",
+  "dni": "5304507",
+  "telefono": 70386334,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIO MPAL. DE FINANZAS Y ADM.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfbf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed8c"
+  },
+  "nombre": "ELIANA DANITZA",
+  "paterno": "MAMANI",
+  "materno": "HUARANCA",
+  "dni": "8825808",
+  "telefono": 69452368,
+  "direccion": "AV. TUNEL 3° SEMAFORO ZONA LA VIÑA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ENCARGADA DE CATASTRO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfc1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed8d"
+  },
+  "nombre": "MARIO",
+  "paterno": "LLANCO",
+  "materno": "APAZA",
+  "dni": "3356532",
+  "telefono": 75944141,
+  "direccion": "ZONA CAPILLA III - EL ABRA ",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. II DE SERVICIOS DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfc3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed90"
+  },
+  "nombre": "BEATRIZ ",
+  "paterno": "MAMANI",
+  "materno": "CONDORI",
+  "dni": "9353730",
+  "telefono": 74372701,
+  "direccion": "KORIHUMA 2",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I DE CONTRATACIONES DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfc5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed91"
+  },
+  "nombre": "FRANZ ADBIEL",
+  "paterno": "RODRIGUEZ",
+  "materno": "AVILES",
+  "dni": "7930814",
+  "telefono": 70789025,
+  "direccion": "AV. OCTAVA  ENTRE CALLE INNOMINADA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. II DE VENTANILLA UNICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfc7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af5dc7ac7469b4ea9fed92"
+  },
+  "nombre": "JHANNETH",
+  "paterno": "VILLCA",
+  "materno": "OVANDO",
+  "dni": "7962710",
+  "telefono": 77998821,
+  "direccion": "SINDICATO ALALAY - LAVA LAVA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE VENTANILLA UNICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfc9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63af6673ac7469b4ea9fef80"
+  },
+  "nombre": "Wendy ",
+  "paterno": "Aguanta",
+  "materno": "Mamani",
+  "dni": "9305875",
+  "telefono": 65502525,
+  "direccion": "VILLA OBRAJES",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "AUX. II DE INFORMACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfcb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2dc1052cabd74b9a26762"
+  },
+  "nombre": "Carla Patricia",
+  "paterno": "Aguilar",
+  "materno": "",
+  "dni": "14566185",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE INTENDENCIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfcd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2de7d52cabd74b9a267bd"
+  },
+  "nombre": "Elbis",
+  "paterno": "Callapa",
+  "materno": "Cano",
+  "dni": "4475239",
+  "telefono": 44444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfcf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2df4e52cabd74b9a267d8"
+  },
+  "nombre": "POR",
+  "paterno": "DESIGNAR",
+  "materno": "",
+  "dni": "44444444",
+  "telefono": 4444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "CENSO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfd1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e39d52cabd74b9a26949"
+  },
+  "nombre": "LIDIA",
+  "paterno": "COLQUECHUIMA ",
+  "materno": "PEREZ",
+  "dni": "63692958",
+  "telefono": 454545,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.IV BIENES INM VEH Y ACT ECONOMICAS D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfd3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e42552cabd74b9a2699e"
+  },
+  "nombre": "ALICIA ",
+  "paterno": "AREBALO",
+  "materno": "LOPEZ",
+  "dni": "6414275",
+  "telefono": 73791052,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFA DE SERVICIO DE URBANISMO DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfd5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e48f52cabd74b9a269cb"
+  },
+  "nombre": "CINTIA",
+  "paterno": "FERRUFINO ",
+  "materno": "PARDO",
+  "dni": "4418367",
+  "telefono": 72707308,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE NORMAS Y REGLAMENTOS DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfd7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e51352cabd74b9a269f8"
+  },
+  "nombre": "EDWIN",
+  "paterno": "MAMANI",
+  "materno": "CAUNA",
+  "dni": "5963495",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRATIVO DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfd9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e5df52cabd74b9a26a05"
+  },
+  "nombre": "MARISOL ",
+  "paterno": "GONZALES",
+  "materno": "ORTUÑO",
+  "dni": "12371667",
+  "telefono": 75982703,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV BIENES INMUEBLES Y VEHICULOS MPAL.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfdb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e64552cabd74b9a26a12"
+  },
+  "nombre": "JESUS IVAN",
+  "paterno": "TORREZ",
+  "materno": " DELGADILLO ",
+  "dni": "4387903",
+  "telefono": 70785166,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I CATASTRO DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfdd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e6a352cabd74b9a26a1f"
+  },
+  "nombre": "JUAN JOSE",
+  "paterno": "TERRAZAS",
+  "materno": "QUIROZ",
+  "dni": "4524906",
+  "telefono": 71434281,
+  "direccion": "Z. TACO POCA-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DISTRITO LAVA LAVA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e6fa52cabd74b9a26a2c"
+  },
+  "nombre": "JHESICA",
+  "paterno": "LICONA",
+  "materno": "CARDOSO",
+  "dni": "6520873",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "ENC.I ASESOR JURIDICO DISTRITO LAVA LAVA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfe1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e82152cabd74b9a26adb"
+  },
+  "nombre": "DANIELA ",
+  "paterno": "FLORES",
+  "materno": "GARCIA",
+  "dni": "7942868",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE  SEGURIDAD CIUDADANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfe3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2e93552cabd74b9a26b46"
+  },
+  "nombre": "TANIA ESMERALDA",
+  "paterno": "AMPUERO",
+  "materno": "TRUJILLO",
+  "dni": "4538199",
+  "telefono": 71453295,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I DE V.U. DE RECEPCION DE DOC. DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfe5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2ea9852cabd74b9a26bb5"
+  },
+  "nombre": "NOEMI",
+  "paterno": "MAGNE",
+  "materno": "SILES",
+  "dni": "7920360",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA SMPDT",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfe7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2eefdebfc61e13b2b1901"
+  },
+  "nombre": "ARIEL ORLANDO",
+  "paterno": "GAMARRA",
+  "materno": "ADRIAN",
+  "dni": "6403687",
+  "telefono": 72714816,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SERVICIOS DE URBANISMO D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfe9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f2b9ebfc61e13b2b1b4f"
+  },
+  "nombre": "MARTHA",
+  "paterno": "RODRIGUEZ",
+  "materno": "ZERNA",
+  "dni": "6549507",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ENC. 2 ASESORIA LEGAL D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfeb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f4e9ebfc61e13b2b1c0c"
+  },
+  "nombre": "IVAN",
+  "paterno": "VARGAS",
+  "materno": "PRADO",
+  "dni": 6537977,
+  "telefono": 79778320,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE DISTRITO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfed"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f552ebfc61e13b2b1c1c"
+  },
+  "nombre": "NESTOR",
+  "paterno": "ACARAPI",
+  "materno": "CALANI",
+  "dni": "9319491",
+  "telefono": 71403910,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfef"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f5b2ebfc61e13b2b1c38"
+  },
+  "nombre": "GUSTAVO ADOLFO",
+  "paterno": "RIVA",
+  "materno": "MENDOZA",
+  "dni": "5229768",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE FINANZAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acff1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f629ebfc61e13b2b1c52"
+  },
+  "nombre": "GRICELDA",
+  "paterno": "PEÑALOZA",
+  "materno": "ROJAS",
+  "dni": "8014204",
+  "telefono": 71720285,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I BIENES INMUEBLES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acff3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2f7aaebfc61e13b2b1c61"
+  },
+  "nombre": "MARIBEL",
+  "paterno": "TORRICO",
+  "materno": "CHAVEZ",
+  "dni": "7920396",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE GESTION URBANA Y TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acff5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2fa0aebfc61e13b2b1cc6"
+  },
+  "nombre": "MINERVA NORMA",
+  "paterno": "NICOLAS",
+  "materno": "ROQUE",
+  "dni": "7914104",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DE SMPDT",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2fb39ebfc61e13b2b1ceb"
+  },
+  "nombre": "FABIOLA R.",
+  "paterno": "SÁNCHEZ",
+  "materno": "ORTIZ",
+  "dni": "2396993",
+  "telefono": 76958334,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.II DE VENTANILLA UNICA DE RECEPCION DE DOC. CAJA D-3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acff9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2fcb0ebfc61e13b2b1dbc"
+  },
+  "nombre": "JHONNY",
+  "paterno": "CAMACHO",
+  "materno": "RODRIGUEZ",
+  "dni": "3818245",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE DISTRITO LAVA LAVA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acffb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b2fcfbebfc61e13b2b1dce"
+  },
+  "nombre": "LIZETH",
+  "paterno": "LOPEZ",
+  "materno": "GREGORIO",
+  "dni": "7923176",
+  "telefono": 60381242,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TÉC. I ADMINISTRATIVO D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acffd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b306e4ebfc61e13b2b22ae"
+  },
+  "nombre": "PEDRO",
+  "paterno": "GUTIERREZ",
+  "materno": "VIDAURRE",
+  "dni": "7881641",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ALCALDE MUNICIPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfff"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b41d1ca474a14c4ce502b6"
+  },
+  "nombre": "CESAR LUIS",
+  "paterno": "HELGUERO",
+  "materno": "ARANDIA",
+  "dni": "3101417",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "STRIO. MPAL. DE PLANIFICACION Y DESARROLLO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad001"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b41f67a474a14c4ce50332"
+  },
+  "nombre": "H. VICENTE",
+  "paterno": "VASQUEZ",
+  "materno": "CAYOJA",
+  "dni": "3774071",
+  "telefono": 77484894,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE ADMINISTRACIÓN DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad003"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b42fc9a474a14c4ce507ab"
+  },
+  "nombre": "NEMECIO",
+  "paterno": "CONDORI",
+  "materno": "COLQUE",
+  "dni": "3809044",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIO MUNICIPAL DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad005"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4307ca474a14c4ce507be"
+  },
+  "nombre": "EDGAR ELIAS",
+  "paterno": "SOLIS",
+  "materno": "CESPEDES",
+  "dni": "3595784",
+  "telefono": 70728334,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "DIREC.GESTION URB.Y TERR.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad007"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b430e4a474a14c4ce507c3"
+  },
+  "nombre": "JOSE DIEGO",
+  "paterno": "ROCHA",
+  "materno": "JAIMES",
+  "dni": "7932417",
+  "telefono": 75922117,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE CATASTRO MULTIFINALITARIO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad009"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b433e0a474a14c4ce5093a"
+  },
+  "nombre": "HENRY SERGIO",
+  "paterno": "ZURITA",
+  "materno": "OLIVARES",
+  "dni": "6474285",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad00b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4470918514d45c1d1d087"
+  },
+  "nombre": "WILDER",
+  "paterno": "CRESPO",
+  "materno": "SAAVEDRA",
+  "dni": "4390756",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIR. INGRESOS Y SER.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad00d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4497b18514d45c1d1d24d"
+  },
+  "nombre": "SOLEDAD",
+  "paterno": "CHOQUE",
+  "materno": "HUARAYO",
+  "dni": "7996535",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I DE V.U. DE RECEPCION DE DOCUMENTOS D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad00f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4502018514d45c1d1d763"
+  },
+  "nombre": "EMILIANA",
+  "paterno": "TERCEROS",
+  "materno": "POZO",
+  "dni": "5151388",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX I DE V. U. DE RECEPCION DE DOCUMENTOS D7 ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad011"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b479f518514d45c1d1e001"
+  },
+  "nombre": "JHOVANA",
+  "paterno": "ROCHA",
+  "materno": "UREY",
+  "dni": "7922722",
+  "telefono": 79727905,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF III DE NORMAS Y REGLAMENTOS D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad013"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b47bd218514d45c1d1e05e"
+  },
+  "nombre": "LUIS ALBERTO",
+  "paterno": "SILES",
+  "materno": "LOPEZ",
+  "dni": "8024999",
+  "telefono": 71498545,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE CATASTRO D-7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad015"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b49b4218514d45c1d2045d"
+  },
+  "nombre": "HERNAN JORGE",
+  "paterno": "AYALA",
+  "materno": "TEJADA",
+  "dni": "3748118",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR OBRAS PUBLICAS Y SUPERVISION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad017"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4a5ea18514d45c1d20bcc"
+  },
+  "nombre": "EDSON GUILLERMO",
+  "paterno": "MORALES",
+  "materno": "PEREZ",
+  "dni": "5161282",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "STRIO. MPAL. DE DESARROLLO HUMANO INTEGRAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acfb1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4a78a18514d45c1d20d18"
+  },
+  "nombre": "ADOLFO",
+  "paterno": "RODRIGUEZ",
+  "materno": "SOLIS",
+  "dni": "5900628",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ARCHIVOS INTITUCIONALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad01b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4a84a18514d45c1d20d93"
+  },
+  "nombre": "DANIEL MICHAEL",
+  "paterno": "MAMANI",
+  "materno": "OYARDO",
+  "dni": "7934637",
+  "telefono": 71408179,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE ARCHIVOS DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad01d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b59a5418514d45c1d22744"
+  },
+  "nombre": "ARIEL IVAN",
+  "paterno": "PEREZ",
+  "materno": "VARGAS",
+  "dni": 4404812,
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR ADMINISTRATIVO"
+},
+{
+  "_id": {
+    "$oid": "63b59be218514d45c1d2280b"
+  },
+  "nombre": "RONALD",
+  "paterno": "ROJAS",
+  "materno": "HINOJOSA",
+  "dni": "5208051",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE CONTRATACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad021"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b59d4218514d45c1d22894"
+  },
+  "nombre": "JORGE LUIS MARCELO",
+  "paterno": "LOPEZ",
+  "materno": "CARTAGENA",
+  "dni": "3750605",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad023"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b59f3818514d45c1d22a5c"
+  },
+  "nombre": "OSCAR",
+  "paterno": "LABRA",
+  "materno": "CLAROS",
+  "dni": "6434905",
+  "telefono": 76471733,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE MTTO DE INFR.ELEC Y SEMAFORIZACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad025"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b5a0ad18514d45c1d22ad2"
+  },
+  "nombre": "CAMILO FRANCISCO",
+  "paterno": "SAAVEDRA",
+  "materno": "CASANO",
+  "dni": "8054837",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE MANT. DE INFR. ELEC. Y SEMAFORIZACION ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad027"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b5a29518514d45c1d22c29"
+  },
+  "nombre": "ALBERTO",
+  "paterno": "OVIDIO",
+  "materno": "MENDIETA",
+  "dni": "5236200",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE TRANSPORTES Y MAQUINARIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad029"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b5a82c18514d45c1d22f52"
+  },
+  "nombre": "DEIMAR",
+  "paterno": "MONTAÑO",
+  "materno": "MONTAÑO",
+  "dni": "6511079",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE DESARROLLO HUMANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad02b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b5e35218514d45c1d2407e"
+  },
+  "nombre": "CRISTHIAN",
+  "paterno": "LIMA",
+  "materno": "QUISPE",
+  "dni": "6307979",
+  "telefono": 77997576,
+  "direccion": "Sacaba",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC II DE ATENCION A LA CIUDADANIA Y DIGITALIZACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad02d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c2a38abe4fc5ec3331d1"
+  },
+  "nombre": "BORIS",
+  "paterno": "RAMIREZ",
+  "materno": "COCA",
+  "dni": "3510303",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE TESORERIA Y CREDITO PUBLICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad02f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c3498abe4fc5ec333253"
+  },
+  "nombre": "JORGE",
+  "paterno": "REVOLLO",
+  "materno": "MONZON",
+  "dni": "9424360",
+  "telefono": 70760309,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III DE VENTANILLA UNICA Y RECEP DE DOC",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad031"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c4018abe4fc5ec33329c"
+  },
+  "nombre": "VICENTE",
+  "paterno": "HERBAS",
+  "materno": "CESPEDES",
+  "dni": "4430883",
+  "telefono": 67407505,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. DE SANEAMIENTO BIENES MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad033"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c4fb8abe4fc5ec3332dc"
+  },
+  "nombre": "JUAN JOSE",
+  "paterno": "LOPEZ",
+  "materno": "MEJIA",
+  "dni": "4529023",
+  "telefono": 71440506,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE TESORERIA Y CREDITO PUBLICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad02f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c59b8abe4fc5ec3332f1"
+  },
+  "nombre": "ALTAGRACIA",
+  "paterno": "VARGAS",
+  "materno": "LEDEZMA",
+  "dni": "3131404",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE CONTABILIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad037"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c6308abe4fc5ec33331d"
+  },
+  "nombre": "JHEFRY",
+  "paterno": "TELLEZ",
+  "materno": "RICALDI",
+  "dni": "5559864",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": false,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC.IV ALMACEN HOSPITAL MÉXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad039"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c6f68abe4fc5ec333350"
+  },
+  "nombre": "GUALBERTO",
+  "paterno": "CHAVEZ",
+  "materno": "MAMANI",
+  "dni": "3811557",
+  "telefono": 69481184,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE ADMINISTRACIÓN DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad003"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6c9128abe4fc5ec333392"
+  },
+  "nombre": "JORGE REMBERTO",
+  "paterno": "CLAURE",
+  "materno": "SALINAS",
+  "dni": "4508412",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE PROYECTOS DE PRE-INVERSION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad03d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6cc5a8abe4fc5ec333412"
+  },
+  "nombre": "JOSE B.",
+  "paterno": "TRUJILLO",
+  "materno": "CASTRO",
+  "dni": "6555478",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE DESARROLLO PROD. Y ECON. PLURAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad03f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6d59d8abe4fc5ec33378b"
+  },
+  "nombre": "HECTOR",
+  "paterno": "LAZARTE",
+  "materno": "LAIME",
+  "dni": "5271041",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE FORTAL. Y DESARROLLO PROD.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad041"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6d6bb8abe4fc5ec3337be"
+  },
+  "nombre": "PAMELA",
+  "paterno": "ROJAS",
+  "materno": "ARNEZ",
+  "dni": "5294063",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR AUDITORIA INTERNA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad043"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6d7a48abe4fc5ec3337d7"
+  },
+  "nombre": "BEATRIZ",
+  "paterno": "CORRALES",
+  "materno": "HEREDIA",
+  "dni": "6420261",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE AUDITORIA INTERNA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad045"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6d8b58abe4fc5ec3337f9"
+  },
+  "nombre": "PEDRO CESAR",
+  "paterno": "VARGAS",
+  "materno": "GARCIA",
+  "dni": "4418975",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE ACTIVOS FIJOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad047"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b6e3c58abe4fc5ec333e16"
+  },
+  "nombre": "LEYDI",
+  "paterno": "QUINTEROS",
+  "materno": "BUSTAMANTE",
+  "dni": "6476112",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.I ACTIVIDADES ECO.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad049"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b7183d8abe4fc5ec33528d"
+  },
+  "nombre": "FLAVIO",
+  "paterno": "HIDALGO",
+  "materno": "ZARATE",
+  "dni": "4502296",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE FISCALIZACION TRIBUTARIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad04b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b71d418abe4fc5ec3356d4"
+  },
+  "nombre": "RODRIGO",
+  "paterno": "MARQUINA",
+  "materno": "BUSTAMANTE",
+  "dni": "5221660",
+  "telefono": 74156524,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I DE SERVICIOS CATASTRALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad04d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b726c98abe4fc5ec335c93"
+  },
+  "nombre": "REYNALDO",
+  "paterno": "ORTIZ",
+  "materno": "NINA",
+  "dni": "5211971",
+  "telefono": 69447667,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I REGULACION Y ORDENAMIENTO DE LA MOVILIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad04f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b727c28abe4fc5ec335d68"
+  },
+  "nombre": "JHEYSON",
+  "paterno": "MUÑOZ",
+  "materno": "CLAROS",
+  "dni": "9346629",
+  "telefono": 67444555,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE PLANTA DE ASF. Y SEÑALIZACION VIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad051"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b72d3a8abe4fc5ec3362f7"
+  },
+  "nombre": "YASMANI",
+  "paterno": "ROMERO",
+  "materno": "MERCADO",
+  "dni": "7942082",
+  "telefono": 76469195,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE ALMACENES DE PLANTA DE ASF.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad053"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b730af8abe4fc5ec33671b"
+  },
+  "nombre": "ELIO R.",
+  "paterno": "ZAPATA",
+  "materno": "SANDOVAL",
+  "dni": "5161126",
+  "telefono": 72278916,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE GOBIERNO ELECTRONICO Y SIST. TEC.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad055"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b733df8abe4fc5ec33699f"
+  },
+  "nombre": "HERNAN H.",
+  "paterno": "SAAVEDRA",
+  "materno": "GARCIA",
+  "dni": "3597965",
+  "telefono": 71440529,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I SERVICIOS GENERALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad057"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b742e08abe4fc5ec33770e"
+  },
+  "nombre": "MARCELO",
+  "paterno": "VARGAS",
+  "materno": "VALDEZ",
+  "dni": "6478134",
+  "telefono": 44443333,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I DE VEHICULOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad059"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b80fbd8abe4fc5ec3380fb"
+  },
+  "nombre": "DANIEL",
+  "paterno": "DURAN",
+  "materno": "RENFIJO",
+  "dni": "5621755",
+  "telefono": 78301802,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ADMI. DE INFORMACION CATASTRAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad05b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b810378abe4fc5ec338137"
+  },
+  "nombre": "LIDYA",
+  "paterno": "TRILLO",
+  "materno": "VALENCIA",
+  "dni": "7860001",
+  "telefono": 70370734,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV JURIDICO DE CATASTRO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad05d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b81f4f8abe4fc5ec33889e"
+  },
+  "nombre": "EDWIN MARCELO",
+  "paterno": "LAIME",
+  "materno": "ANGULO",
+  "dni": "5205428",
+  "telefono": 70351945,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SERVICIOS DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad05f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b81fba8abe4fc5ec3388e1"
+  },
+  "nombre": "CRHISTIAN S.",
+  "paterno": "SALINAS ",
+  "materno": "HUANCA",
+  "dni": "5182094",
+  "telefono": 44444777,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE PROGRAMACIÓN DE OPERACIONES Y SEG. POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad061"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b8237b8abe4fc5ec338b07"
+  },
+  "nombre": "MARIZOL",
+  "paterno": "ALVARADO",
+  "materno": "BALDERRAMA",
+  "dni": "6479188",
+  "telefono": 69441163,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. IV JURIDICO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad063"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b826238abe4fc5ec338d4f"
+  },
+  "nombre": "DOMINGO",
+  "paterno": "SILVESTRE",
+  "materno": "CHARACAYO",
+  "dni": "8560619",
+  "telefono": 72738613,
+  "direccion": "Sacaba",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE ADM.DE COMBUSTIBLE Y LUBRICANTES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad065"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b832958abe4fc5ec33926e"
+  },
+  "nombre": "JIMMY",
+  "paterno": "POSTIGO",
+  "materno": "ROJAS",
+  "dni": "7883861",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE EDUCACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad067"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b8656c8abe4fc5ec33ab80"
+  },
+  "nombre": "ALICIA",
+  "paterno": "GUZMAN",
+  "materno": "ROMERO",
+  "dni": "7915284",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ADMINISTRACION D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad069"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b87af58abe4fc5ec33c661"
+  },
+  "nombre": "JOSE ANTONIO",
+  "paterno": "MAZMANI ",
+  "materno": "ALCONZ ",
+  "dni": "6411660",
+  "telefono": 67404031,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III TURISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad06b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b87c028abe4fc5ec33c7a8"
+  },
+  "nombre": "JHONNY",
+  "paterno": "CORRALES ",
+  "materno": "PEREDO ",
+  "dni": "5288030",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE GESTION DE RIESGOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad06d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b888c58abe4fc5ec33d8f7"
+  },
+  "nombre": "MILENKA IVON",
+  "paterno": "PABON",
+  "materno": "MOLINA",
+  "dni": "4868714",
+  "telefono": 70377716,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I VENTANILLA UNICA RECEP. DOC",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad06f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b88c998abe4fc5ec33dedc"
+  },
+  "nombre": "ROGER ROSS",
+  "paterno": "SAAVEDRA",
+  "materno": "MIRANDA",
+  "dni": "5250201",
+  "telefono": 44444,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE PRESUPUESTOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad071"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b8a8718abe4fc5ec33f987"
+  },
+  "nombre": "JACOB JUSTO",
+  "paterno": "ALMARAZ",
+  "materno": "SANCHEZ",
+  "dni": "6478562",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.I DE CULTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad073"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b8a8e08abe4fc5ec33f994"
+  },
+  "nombre": "FERNANDO",
+  "paterno": "PEREDO",
+  "materno": "INTURIAS",
+  "dni": "5256815",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE INTENDENCIA MPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad075"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc0fa08abe4fc5ec340195"
+  },
+  "nombre": "MARCELA CLAUDIA ",
+  "paterno": "ZAMBRANA",
+  "materno": "VALENCIA",
+  "dni": "12874909",
+  "telefono": 77429660,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC.I TESORERIA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad077"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc1cb48abe4fc5ec340bf1"
+  },
+  "nombre": "BRIAN",
+  "paterno": "BORDA",
+  "materno": "MORENO",
+  "dni": "9448057",
+  "telefono": 60365258,
+  "direccion": "AV. FORESTAL S/N -Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad079"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc1cc28abe4fc5ec340c02"
+  },
+  "nombre": "JOSE EDWIN ",
+  "paterno": "NOGALES",
+  "materno": "ORELLANA",
+  "dni": "5161224",
+  "telefono": 74355680,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II ASESOR TECNICO GESTION URBANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad07b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc27188abe4fc5ec341962"
+  },
+  "nombre": "JOSE JOAQUIN",
+  "paterno": "LEDEZMA",
+  "materno": "ALDUNATE",
+  "dni": "9397505",
+  "telefono": 69500941,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ASESOR JURIDICO DNA D-6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad07d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc3bbd8abe4fc5ec343143"
+  },
+  "nombre": "JOSE LUIS F.",
+  "paterno": "CHAIN",
+  "materno": "LESME",
+  "dni": "2703251",
+  "telefono": 68224345,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE SEGURIDAD CIUDADANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad07f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc59108abe4fc5ec34388d"
+  },
+  "nombre": "ELMER",
+  "paterno": "CALICHO",
+  "materno": "SIANCAS",
+  "dni": "7982610",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE ADMIN. Y DESARROLLO DE PERSONAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad081"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc5ebd8abe4fc5ec344106"
+  },
+  "nombre": "PAMELA",
+  "paterno": "ALCOCER",
+  "materno": "VILLARROEL",
+  "dni": "6449701",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR JURIDICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad083"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc6d618abe4fc5ec344f78"
+  },
+  "nombre": "FATIMA C.",
+  "paterno": "VARGAS ",
+  "materno": "MONTAÑO ",
+  "dni": "5931055",
+  "telefono": 70305482,
+  "direccion": "Calle Padilla # 0426 casco viejo Sacaba- Cochabamba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PLANIFICADORA DESARROLLO HUMANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad085"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc891d8abe4fc5ec346ffc"
+  },
+  "nombre": "JOHNN",
+  "paterno": "ALMENDRAS",
+  "materno": "SARZURI",
+  "dni": "12873586",
+  "telefono": 60728375,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUXILIAR DE ARCHIVOS S.M.I.S",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad087"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc92638abe4fc5ec347cb4"
+  },
+  "nombre": "ALEJANDRO DENNIS",
+  "paterno": "ESQUIVEL",
+  "materno": "CUTIPA",
+  "dni": "4800006",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.I TRANSPARENCIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad089"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bd6ce3df945174975e0634"
+  },
+  "nombre": "ANGEL",
+  "paterno": "CADIMA",
+  "materno": "SANCHEZ",
+  "dni": "4414664",
+  "telefono": 67407969,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE AREAS VERDES, PARQ Y JARDINES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad08b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bd6f51df945174975e0a4e"
+  },
+  "nombre": "BORIS H.",
+  "paterno": "SILES",
+  "materno": "ROJAS",
+  "dni": "3612185",
+  "telefono": 77426264,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad08d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bd9c58c3e85302f7640e7b"
+  },
+  "nombre": "ALFREDO H.",
+  "paterno": "CESPEDES ",
+  "materno": "CAMACHO ",
+  "dni": "3610389",
+  "telefono": 44414141,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III DEFENSORIA DE LA NIÑEZ Y ADOLESCENCIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad08f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdad2fc3e85302f7641324"
+  },
+  "nombre": "JHONNY S.",
+  "paterno": "REVOLLO",
+  "materno": "TORRICO",
+  "dni": "4417681",
+  "telefono": 44433344,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I DEPORTES Y PROMOCION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad091"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdbaddc3e85302f76425b9"
+  },
+  "nombre": "JUAN CARLOS",
+  "paterno": "GUACHALLA",
+  "materno": "RIGUERA",
+  "dni": "3760167",
+  "telefono": 65348272,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE NORMAS Y REGLAMENTOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad093"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdbb64c3e85302f7642661"
+  },
+  "nombre": "SERGIO M.",
+  "paterno": "VARGAS",
+  "materno": "VALVERDE",
+  "dni": "5154491",
+  "telefono": 71726151,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D-4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad095"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdbbfec3e85302f7642767"
+  },
+  "nombre": "JHONNY ",
+  "paterno": "ACOSTA",
+  "materno": "CAMACHO",
+  "dni": "7923907",
+  "telefono": 67407628,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO D-4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad097"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdbc52c3e85302f7642809"
+  },
+  "nombre": "DARWIN",
+  "paterno": "LAIME",
+  "materno": "JIMENEZ",
+  "dni": "7913142",
+  "telefono": 79329655,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TECNICO I DE CATASTRO D-4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad099"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdbcbfc3e85302f764285c"
+  },
+  "nombre": "JUAN ALEJANDRO",
+  "paterno": "LEDEZMA",
+  "materno": "LOZADA",
+  "dni": "4477842",
+  "telefono": 70751778,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SERVICIOS DE URBANISMO D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad09b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdc09dc3e85302f7642fd7"
+  },
+  "nombre": "OSCAR JAVIER",
+  "paterno": "CHAVEZ ",
+  "materno": "HUAYTA",
+  "dni": "4455006",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II COMUNICACION E IMAG. INST.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad09d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdc898c3e85302f7643f50"
+  },
+  "nombre": "ERLAN BORIS",
+  "paterno": "ALMANZA",
+  "materno": "CASANOVAS",
+  "dni": "5250323",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I DE GABINETE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad09f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bdd358c3e85302f7645274"
+  },
+  "nombre": "NEYDA ROMINA",
+  "paterno": "VELASCO",
+  "materno": "PINTO",
+  "dni": "7938583",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I VENTANILLA UNICA RECEP. DOC. D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bde487c3e85302f7646e54"
+  },
+  "nombre": "WINDER",
+  "paterno": "QUIROGA",
+  "materno": "PEREDO",
+  "dni": "4476341",
+  "telefono": 72234502,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE GESTIÓN URBANA Y TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bde562c3e85302f7646fb3"
+  },
+  "nombre": "JUAN CARLOS",
+  "paterno": "ZAPATA",
+  "materno": "GAMARRA",
+  "dni": "5935004",
+  "telefono": 77452103,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bde61dc3e85302f764704a"
+  },
+  "nombre": "WILFREDO",
+  "paterno": "MUÑOS",
+  "materno": "REVOLLO",
+  "dni": "7942806",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63beae5cc3e85302f76489ae"
+  },
+  "nombre": "EDILBERTO",
+  "paterno": "PEREDO",
+  "materno": "CRUZ",
+  "dni": "7943265",
+  "telefono": 67501132,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.I DE ALMACENES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63beba7fc3e85302f76496e9"
+  },
+  "nombre": "JHENNY D.",
+  "paterno": "QUIROZ",
+  "materno": "SILVESTRE",
+  "dni": "8035795",
+  "telefono": 79338346,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE ALIMENTACION COMPLEMENTARIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0ab"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bebba4c3e85302f764986b"
+  },
+  "nombre": "KAROLINA",
+  "paterno": "MONTAÑO",
+  "materno": "CRESPO",
+  "dni": "7942515",
+  "telefono": 60396226,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV DE CAJAS D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0ad"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bec1ecc3e85302f764a127"
+  },
+  "nombre": "LIDIA MIREYA",
+  "paterno": "LOPEZ",
+  "materno": "FLORES",
+  "dni": "5196616",
+  "telefono": 76446870,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV BIENES INMUEBLES D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0af"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bec326c3e85302f764a1da"
+  },
+  "nombre": "RAMIRO",
+  "paterno": "CLAROS",
+  "materno": "RODRIGUEZ",
+  "dni": "7908643",
+  "telefono": 72256600,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I ASESOR TECNICO RUAT",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed13bc3e85302f764b4d0"
+  },
+  "nombre": "ELIZABETH",
+  "paterno": "GARCIA",
+  "materno": "AGUILAR",
+  "dni": "5214636",
+  "telefono": 77440085,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRACION DE CEMENTERIO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0b3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed312c3e85302f764b988"
+  },
+  "nombre": "DEYNISA",
+  "paterno": "LLAVETA",
+  "materno": "VELA",
+  "dni": "8756555",
+  "telefono": 63936984,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV DE BIENES INMUEBLES D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed3bfc3e85302f764bb28"
+  },
+  "nombre": "HECTOR",
+  "paterno": "MICHEL",
+  "materno": "VARGAS",
+  "dni": "4452912",
+  "telefono": 71716878,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE NORMAS  Y REGLAMENTO D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0b7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed4d3c3e85302f764bcc2"
+  },
+  "nombre": "ERLAN GONZALO",
+  "paterno": "URIA",
+  "materno": "RAMIREZ",
+  "dni": "4800851",
+  "telefono": 74370746,
+  "direccion": "Sacaba",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV CAJA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed54bc3e85302f764bda8"
+  },
+  "nombre": "GROVER",
+  "paterno": "VALLEJOS",
+  "materno": "BAZOALTO",
+  "dni": "5241707",
+  "telefono": 62635555,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bed64dc3e85302f764bf3d"
+  },
+  "nombre": "EDGAR",
+  "paterno": "FLORES",
+  "materno": "CRUZ",
+  "dni": "7045410",
+  "telefono": 67575499,
+  "direccion": "Sacaba",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO D-6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf0816c3e85302f764e4de"
+  },
+  "nombre": "GROVER",
+  "paterno": "FERNANDEZ",
+  "materno": "IBARRA",
+  "dni": "7892937",
+  "telefono": 60776032,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE MANTENIMIENTO DE U.E",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0bf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf0827c3e85302f764e513"
+  },
+  "nombre": "FELIX",
+  "paterno": "LIMA",
+  "materno": "YUCRA",
+  "dni": "6520105",
+  "telefono": 71762101,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III MANTENIMIENTO SIST. EDUCACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0c1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf0ad8c3e85302f764e97a"
+  },
+  "nombre": "DORIAN",
+  "paterno": "ALANES",
+  "materno": "RAMIREZ",
+  "dni": "4431445",
+  "telefono": 77420858,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ADM. DE GENERO GENERACIONAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf0cc0c3e85302f764f07d"
+  },
+  "nombre": "JUAN ALEX",
+  "paterno": "FERNANDEZ",
+  "materno": "DIAZ",
+  "dni": "5911904",
+  "telefono": 72701479,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DEFENSORIA DE LA NIÑEZ Y ADOLECENCIA (DNA)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0c5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf10e3c3e85302f764f814"
+  },
+  "nombre": "MARLITT",
+  "paterno": "RODRIGUEZ",
+  "materno": "SANCHEZ",
+  "dni": "9346188",
+  "telefono": 63967461,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ASESOR JURIDICO SLIM D-1",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf1404c3e85302f764fd58"
+  },
+  "nombre": "HERNAN",
+  "paterno": "HERBAS",
+  "materno": "AGUILAR",
+  "dni": "7942842",
+  "telefono": 67508720,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE DESARROLLO DEPORTIVO Y ESC. MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0c9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf141ec3e85302f764fd8a"
+  },
+  "nombre": "CRISTIAN",
+  "paterno": "BALCAZAR",
+  "materno": "CESPEDES",
+  "dni": "4367770",
+  "telefono": 79994527,
+  "direccion": "Sacaba",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRADOR INFRA. Y ESCE. DEPOR.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0cb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf1bf2c3e85302f7650af0"
+  },
+  "nombre": "EDSON R.",
+  "paterno": "ZELADA",
+  "materno": "JALDIN",
+  "dni": "4444",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE FINANZAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8acff1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf1e47c3e85302f76510a5"
+  },
+  "nombre": "CARLA J.",
+  "paterno": "AGUILAR",
+  "materno": "ANDIA",
+  "dni": "8049264",
+  "telefono": 79714766,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE CATASTRO D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf1e7dc3e85302f7651181"
+  },
+  "nombre": "WILDER GUERY",
+  "paterno": "INTURIAS",
+  "materno": "ALCOCER",
+  "dni": "5193034",
+  "telefono": 4444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE DISTRITO 6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0d1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf2684c3e85302f765281d"
+  },
+  "nombre": "VANESSA ",
+  "paterno": "VARGAS",
+  "materno": "SILLERICO",
+  "dni": "8034615",
+  "telefono": 69470560,
+  "direccion": "AV. VILLAZON QUINTANILLA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III PROYECTOS DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bf30a6c3e85302f76537b0"
+  },
+  "nombre": "JOSE RICARDO",
+  "paterno": "TORRICO",
+  "materno": "RODRIGUEZ",
+  "dni": "6462997",
+  "telefono": 70776775,
+  "direccion": "URB. SAN JUAN DE DIOS I",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II PROYECTOS DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0d5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c02142c3e85302f765887d"
+  },
+  "nombre": "VICENTE NELSON",
+  "paterno": "SANCHEZ",
+  "materno": "LEDEZMA",
+  "dni": "3581788",
+  "telefono": 4444443,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE COORDINACION Y RELACIONES INTERINSTITUCIONALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0d7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c02a47c3e85302f76595c3"
+  },
+  "nombre": "OSVALDO ",
+  "paterno": "LOPEZ",
+  "materno": "QUIROGA",
+  "dni": "3758200",
+  "telefono": 71779714,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE ADMINISTRATIVO HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0d9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c06213c3e85302f765c9ea"
+  },
+  "nombre": "SAMUEL",
+  "paterno": "BARJA",
+  "materno": "AREBALO",
+  "dni": "5280787",
+  "telefono": 71497389,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III MATADERO MUNICIPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0db"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c068a8c3e85302f765d56b"
+  },
+  "nombre": "HELBER N.",
+  "paterno": "CHOCAYA",
+  "materno": "HINOJOSA",
+  "dni": "3560176",
+  "telefono": 77485324,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II ADMINISTRACION DEL (SICOES)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c081a1c3e85302f7660fc7"
+  },
+  "nombre": "LETICIA ",
+  "paterno": "QUINTEROS ",
+  "materno": "TERRAZAS",
+  "dni": "9507785",
+  "telefono": 67453163,
+  "direccion": "CALLE 2 DE AGOSTO ",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFA DE ADMINISTRACION FINANCIERA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0df"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c15984c3e85302f7663002"
+  },
+  "nombre": "RICHARD",
+  "paterno": "QUELCA",
+  "materno": "LEDEZMA",
+  "dni": "8835732",
+  "telefono": 76473115,
+  "direccion": "SACABA DISTRITO 1",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III DE ADQUISICIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c176efc3e85302f76655e0"
+  },
+  "nombre": "PAOLA",
+  "paterno": " ANDREA",
+  "materno": " MITMA ",
+  "dni": "9317233",
+  "telefono": 78308292,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRACION D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c558f0c3e85302f766dc69"
+  },
+  "nombre": "DAVID SAULO",
+  "paterno": "LIZARAZU",
+  "materno": "GARCIA",
+  "dni": "8014101",
+  "telefono": 72738661,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROGRAMAS DE ATENCION A LA INF. JUVENTUDES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c560ebc3e85302f766e630"
+  },
+  "nombre": "JUAN GABRIEL",
+  "paterno": "JIMENES",
+  "materno": "TOLEDO",
+  "dni": "8830949",
+  "telefono": 76436879,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE SICOFS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c562d2c3e85302f766e950"
+  },
+  "nombre": "VICTOR HUGO",
+  "paterno": "CABRERA",
+  "materno": "ROJAS",
+  "dni": "5241869",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I VIVERO AGRO FORESTAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c56e0bc3e85302f766fcc7"
+  },
+  "nombre": "EDDY",
+  "paterno": "PARRA",
+  "materno": "LAMAS",
+  "dni": "6538758",
+  "telefono": 69511671,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PLANTA DE ASFALTO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c56ff8c3e85302f76700ac"
+  },
+  "nombre": "MELANI",
+  "paterno": "FERNANDEZ",
+  "materno": "HIDALGO",
+  "dni": "8661166",
+  "telefono": 60700631,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC.I TESORERIA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad077"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5921ec3e85302f76711ed"
+  },
+  "nombre": "CARLOS",
+  "paterno": "JESUS",
+  "materno": "ALANES",
+  "dni": "5928553",
+  "telefono": 67558011,
+  "direccion": "DISTRITO CHIÑATA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III UNIDAD MUNICIPAL DE ATENCION A DISCAP. -UMADIS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0ef"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c59239c3e85302f767124f"
+  },
+  "nombre": "MARIA ANGELICA",
+  "paterno": "GALINDO",
+  "materno": "MEDRANO",
+  "dni": "4529265",
+  "telefono": 71726709,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE PROGRAMACION DE OPE. Y SEG. POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c596aec3e85302f767189f"
+  },
+  "nombre": "LOURDES NANCY",
+  "paterno": "MENESES",
+  "materno": "MORALES",
+  "dni": "8686168",
+  "telefono": 61610646,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I DE TRIBUTACION DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c59767c3e85302f7671a96"
+  },
+  "nombre": "JOSE WILBER",
+  "paterno": "VELASQUEZ",
+  "materno": "OLIVERA",
+  "dni": "7894484",
+  "telefono": 75920801,
+  "direccion": "C. MARTIN CARDENAS Y CIR",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II PROYECTOS CIVILES MAYORES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0f5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c59921c3e85302f7671d4c"
+  },
+  "nombre": "JAIME",
+  "paterno": "CAHUANA",
+  "materno": "SOLIS",
+  "dni": "8660298",
+  "telefono": 74334685,
+  "direccion": "CALLE AROMA SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II PROYECTOS CIVILES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0f7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c59df2c3e85302f76723e3"
+  },
+  "nombre": "RENE R.",
+  "paterno": "QUISPE",
+  "materno": "CADIMA",
+  "dni": "6454329",
+  "telefono": 71490538,
+  "direccion": "AV. MONS ALCOCER NORTE SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ADM. DE SEGURIDAD CIUDADANA Y MOV. MUN.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5a66cc3e85302f7672edd"
+  },
+  "nombre": "JAVIER",
+  "paterno": "MAMANI",
+  "materno": "GUTIERREZ",
+  "dni": "6416830",
+  "telefono": 72276081,
+  "direccion": "ALTO PARAISO D7",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5b71bc3e85302f7674bf2"
+  },
+  "nombre": "MARY ISABEL",
+  "paterno": "UREY",
+  "materno": "IBARRA",
+  "dni": "6501387",
+  "telefono": 60721451,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I CAJAS HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5be81c3e85302f76756a0"
+  },
+  "nombre": "ROBERTO",
+  "paterno": "MONTAÑO",
+  "materno": "VARGAS",
+  "dni": "3757354",
+  "telefono": 71490267,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS ECONOMICOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5c5a3c3e85302f76766ed"
+  },
+  "nombre": "BERTHA ",
+  "paterno": "ORDONEZ",
+  "materno": "TERRAZAS",
+  "dni": "8024855",
+  "telefono": 71781589,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad101"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c5cb4cc3e85302f767727f"
+  },
+  "nombre": "ROSARIO",
+  "paterno": "MENESES",
+  "materno": "CHAVEZ",
+  "dni": "12490118",
+  "telefono": 68489733,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "AUX. I CAJAS HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad103"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c7075dea7895dad4e84742"
+  },
+  "nombre": "EDWIN RENE",
+  "paterno": "AVILES",
+  "materno": "VIA",
+  "dni": "3758208",
+  "telefono": 71712718,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE D1",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad105"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c7e6132a0a32f55f40f879"
+  },
+  "nombre": "ROBERTO CARLOS",
+  "paterno": "CHAMBILLA",
+  "materno": "LOPEZ",
+  "dni": "5237814",
+  "telefono": 71713433,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTOR DE TRANSPORTES Y SERVICIOS ELECTRICOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad107"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c7fdc62a0a32f55f411ad9"
+  },
+  "nombre": "POR",
+  "paterno": "ASIGNAR",
+  "materno": "FUNCIONARIO",
+  "dni": "77444777",
+  "telefono": 77444777,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF.I DE CONTRATACIONES DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad109"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c812572a0a32f55f413aec"
+  },
+  "nombre": "EDWIN",
+  "paterno": "INTURIAS",
+  "materno": "SOLIZ",
+  "dni": "8660874",
+  "telefono": 68491815,
+  "direccion": "DISTRITO CHIÑATA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV DE CAJAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad10b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c814762a0a32f55f413eae"
+  },
+  "nombre": "EMILIO",
+  "paterno": "RICALDES",
+  "materno": "MERIDA",
+  "dni": "5288329",
+  "telefono": 63943885,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE ADMISTRATIVO HOSPITAL SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad10d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c814872a0a32f55f413f06"
+  },
+  "nombre": "LUCIA",
+  "paterno": "MELGARES",
+  "materno": "MIRANDA",
+  "dni": "6544927",
+  "telefono": 67589277,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PRESUPUESTOS SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad10f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c855c02a0a32f55f418846"
+  },
+  "nombre": "RIDER ",
+  "paterno": "LUIZAGA",
+  "materno": "RODRIGUEZ",
+  "dni": "6556267",
+  "telefono": 79736970,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV TESORERIA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad111"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c856d32a0a32f55f418ad8"
+  },
+  "nombre": "IVAN",
+  "paterno": "REVOLLO",
+  "materno": "OLIVERA",
+  "dni": "8682857",
+  "telefono": 68467742,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II ARCHIVOS DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad113"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c85c832a0a32f55f419600"
+  },
+  "nombre": "ALEXANDER",
+  "paterno": "MERIDA",
+  "materno": "PEÑA",
+  "dni": "8716637",
+  "telefono": 68596613,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I ACTIVOS FIJOS DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad115"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c85fba2a0a32f55f419e3a"
+  },
+  "nombre": "JOAQUIN",
+  "paterno": "COCA",
+  "materno": "MORALES",
+  "dni": "5314748",
+  "telefono": 70734727,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE ALMACENES DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad117"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c964742828763d0307b0fc"
+  },
+  "nombre": "LOURDES ISABEL",
+  "paterno": "AYMA",
+  "materno": "MORALES",
+  "dni": "3505353",
+  "telefono": 74362075,
+  "direccion": "SACABA",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROGRAMAS DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad119"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c993a0da1ad07df3d04b45"
+  },
+  "nombre": "MICHAEL CARMELO",
+  "paterno": "VALENCIA",
+  "materno": "RAMIREZ",
+  "dni": "5906668",
+  "telefono": 68456121,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE GENERO GENERACIONAL Y FAMILIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad11b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c99c0eda1ad07df3d05b9b"
+  },
+  "nombre": "ROBERTO C.",
+  "paterno": "SANCHEZ",
+  "materno": "ZUBIETA",
+  "dni": "6540022",
+  "telefono": 70795234,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF.I DE CONTROL SANITARIO Y ZOONOSIS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad11d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c99ce7da1ad07df3d05dc9"
+  },
+  "nombre": "EDGAR",
+  "paterno": "QUISPE",
+  "materno": "CHAVEZ",
+  "dni": "8716966",
+  "telefono": 67476044,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ENCARGADO DE NORMAS Y REG. D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad11f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c9a0a6da1ad07df3d06385"
+  },
+  "nombre": "DILMA",
+  "paterno": "CONDORI",
+  "materno": "SANTOS",
+  "dni": "4419535",
+  "telefono": 78328659,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE ADULTO MAYOR",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad121"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ca863fda1ad07df3d0a0fb"
+  },
+  "nombre": "NATALI N.",
+  "paterno": "VILLARROEL",
+  "materno": "CHUMACERO",
+  "dni": "4737707",
+  "telefono": 71486644,
+  "direccion": "SACABA",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE DEPORTES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad123"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ca97b7da1ad07df3d0ba7e"
+  },
+  "nombre": "MARIELA",
+  "paterno": "COSSIO",
+  "materno": "ROMERO",
+  "dni": "7923690",
+  "telefono": 68518161,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.II DE PROGRMAS EDUCATIVOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad125"
+  }
+},
+{
+  "_id": {
+    "$oid": "63caa446da1ad07df3d0cee2"
+  },
+  "nombre": "VIDAL",
+  "paterno": "OVIDIO",
+  "materno": "AGUILAR",
+  "dni": "6452756 ",
+  "telefono": 72207290,
+  "direccion": "LARATI-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE RURAL D5",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad127"
+  }
+},
+{
+  "_id": {
+    "$oid": "63caa575ee01508749af4f5e"
+  },
+  "nombre": "ALFREDO",
+  "paterno": "LUNA",
+  "materno": "GARCIA",
+  "dni": "6514302",
+  "telefono": 71743352,
+  "direccion": "HUAYLLANI",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE RURAL PALCA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad129"
+  }
+},
+{
+  "_id": {
+    "$oid": "63caaca4ee01508749af5a85"
+  },
+  "nombre": "VICENTE",
+  "paterno": "SEJAS",
+  "materno": "MALDONADO",
+  "dni": "4430389",
+  "telefono": 71734944,
+  "direccion": "SACABA D4",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad12b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63caba6dee01508749af6ff1"
+  },
+  "nombre": "CRISPIN",
+  "paterno": "ACOSTA ",
+  "materno": "MORALES",
+  "dni": "5907677",
+  "telefono": 74359822,
+  "direccion": "AGUIRRE",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE RURAL AGUIRRE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad12d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cad61eee01508749af7c24"
+  },
+  "nombre": "JOSE LUIS",
+  "paterno": "TENORIO",
+  "materno": "COCA",
+  "dni": "3493682",
+  "telefono": 61782199,
+  "direccion": "LAVA LAVA DLL",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad12f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cad7abee01508749af7d95"
+  },
+  "nombre": "AYRTON",
+  "paterno": "VARGAS",
+  "materno": "REJAS",
+  "dni": "4428683",
+  "telefono": 77436337,
+  "direccion": "BELLA VISTA- SACABA-CBBA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III ASESOR JURIDICO DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad131"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cae306ee01508749af9812"
+  },
+  "nombre": "GUIDO ANTONIO",
+  "paterno": "SALAZAR",
+  "materno": "BLANCO",
+  "dni": "4504458",
+  "telefono": 72212494,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I INSPECTOR DLL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad133"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cae510ee01508749af9cff"
+  },
+  "nombre": "JOSE LUIS",
+  "paterno": "MORALES",
+  "materno": "CHOQUE",
+  "dni": "5283535",
+  "telefono": 77494523,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II PROYECTOS AGRONOMIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad135"
+  }
+},
+{
+  "_id": {
+    "$oid": "63caf8d7ee01508749afc778"
+  },
+  "nombre": "JOSE LUIS",
+  "paterno": "SANCHEZ",
+  "materno": "RODRIGUEZ",
+  "dni": "5234448",
+  "telefono": 76485288,
+  "direccion": "TUTIMAYU",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE RURAL UCUCHI",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad137"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cfd3dfee01508749b0264c"
+  },
+  "nombre": "NERY FELIPE",
+  "paterno": "CARBALLO",
+  "materno": "TERAN",
+  "dni": "5194994",
+  "telefono": 71493931,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC.I SISTEMAS E INFRAESTRUCTURA TECNOLOGICA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad139"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cfd989ee01508749b035c5"
+  },
+  "nombre": "WILSON JOSE ",
+  "paterno": "STRAUSS ",
+  "materno": "VARGAS",
+  "dni": "4495230",
+  "telefono": 76966726,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE ADMINISTRACION DE TERMINAL DE BUSES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad13b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cfeaf0ee01508749b05a10"
+  },
+  "nombre": "YERSON",
+  "paterno": "FERNANDEZ",
+  "materno": "LOPEZ",
+  "dni": "9414461",
+  "telefono": 76489427,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I INSPECTOR D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad13d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cfeb93ee01508749b05b38"
+  },
+  "nombre": "IVAN",
+  "paterno": "MONTECINOS",
+  "materno": "LUJAN",
+  "dni": "8030512",
+  "telefono": 76491961,
+  "direccion": "ZONA VIGEN DE ASUNCION ",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ALARIFE D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad13f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63cfec53ee01508749b05c98"
+  },
+  "nombre": "FABIOLA",
+  "paterno": "ZABALA",
+  "materno": "FERNANDEZ",
+  "dni": "7925783",
+  "telefono": 62649335,
+  "direccion": "AV. VILLAZON  CHACACOLLO",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I EMPADRONAMIENTO PREDIAL D4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad141"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d02bbf423998b8ed1f1808"
+  },
+  "nombre": "POR",
+  "paterno": "DESIGNAR",
+  "materno": "",
+  "dni": "123456",
+  "telefono": 44444,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "-",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad143"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d02c59423998b8ed1f1922"
+  },
+  "nombre": "GLORIA ROXANA",
+  "paterno": "SIANCAS",
+  "materno": "ACOSTA",
+  "dni": "8682780",
+  "telefono": 71493953,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.II EQUIPAMIENTO DE UNIDADES EDUCATIVAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad145"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d02fb1423998b8ed1f1f5b"
+  },
+  "nombre": "OMAR",
+  "paterno": "CHOQUE",
+  "materno": "SANTOS",
+  "dni": "5930181",
+  "telefono": 70301659,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. II CONTABLE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad147"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d04664423998b8ed1f6012"
+  },
+  "nombre": "JAVIER ENRIQUE",
+  "paterno": "MORALES",
+  "materno": "MAMANI",
+  "dni": "4422301",
+  "telefono": 75480455,
+  "direccion": "DISTRITO 6",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SERVICIOS DE URBANISMO D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad149"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d04892423998b8ed1f6514"
+  },
+  "nombre": "GONZALO FREDDY",
+  "paterno": "HUANCA",
+  "materno": "CHOQUE",
+  "dni": "7992629",
+  "telefono": 67549850,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I INSPECTOR D6",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad14b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d04ccf423998b8ed1f7074"
+  },
+  "nombre": "EDGAR",
+  "paterno": "FLORES",
+  "materno": "VEIZAN",
+  "dni": "5729891",
+  "telefono": 73820827,
+  "direccion": "Sacaba",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ASESOR JURIDICO DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad14d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d056d4423998b8ed1f8179"
+  },
+  "nombre": "LIZ VERONICA",
+  "paterno": "ALVAREZ",
+  "materno": "ASTROÑA",
+  "dni": "7918528",
+  "telefono": 67452058,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFA ADM. DE PROG. Y ESTABLECI.DE SALUD DE 1 NIVEL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad14f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d05f86423998b8ed1f8e7a"
+  },
+  "nombre": "NOEMY",
+  "paterno": "ARANCIBIA",
+  "materno": "QUISPE",
+  "dni": "8682452",
+  "telefono": 67537647,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I UAIN@",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad151"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d12e4a423998b8ed1fb736"
+  },
+  "nombre": "ANICETO",
+  "paterno": "MUÑOZ",
+  "materno": "LAZARTE",
+  "dni": "7894478",
+  "telefono": 77443102,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I MANTENIMIENTO DE SISTEMAS DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad153"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d1321b423998b8ed1fbb30"
+  },
+  "nombre": "ALEYDA",
+  "paterno": "PEREDO",
+  "materno": "VALENCIA",
+  "dni": "8024793",
+  "telefono": 68480820,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFA DE CONTABILIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad155"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d13a2f423998b8ed1fc8a5"
+  },
+  "nombre": "XIMENA",
+  "paterno": "NEGRETTY",
+  "materno": "GALLEGO",
+  "dni": "8047222",
+  "telefono": 70300656,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.IV CONTABLE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad157"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d13d4d423998b8ed1fcfff"
+  },
+  "nombre": "ROSSMERY",
+  "paterno": "ALANOKA ",
+  "materno": "MEJIA",
+  "dni": "7982485",
+  "telefono": 71488373,
+  "direccion": "ZONA LAVA LAVA BAJA - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. II DE SICOES DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad159"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d17d74423998b8ed201a41"
+  },
+  "nombre": "GREGORIO",
+  "paterno": "ARNEZ",
+  "materno": "FUENTES",
+  "dni": "4520098",
+  "telefono": 72295474,
+  "direccion": "CHIÑATA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE RURAL CHIÑATA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad15b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d18775423998b8ed20290f"
+  },
+  "nombre": "ROBIN ISIDRO",
+  "paterno": "QUIROGA",
+  "materno": "CALDERON",
+  "dni": "4467425",
+  "telefono": 77970039,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE PLANIFICACIÓN ESTRATÉGICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad15d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d18dac423998b8ed20392e"
+  },
+  "nombre": "GRISELDA",
+  "paterno": "CAMACHO",
+  "materno": "SALVATIERRA",
+  "dni": "5208587",
+  "telefono": 72297127,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. II DE FIM",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad15f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d1a859423998b8ed206ed8"
+  },
+  "nombre": "ESTHER",
+  "paterno": "GARCIA",
+  "materno": "SANDOVAL",
+  "dni": "7923180",
+  "telefono": 444444,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I DE CAJAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad161"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d281a2423998b8ed20a58b"
+  },
+  "nombre": "ELISA ALEJANDRA",
+  "paterno": "LOPEZ",
+  "materno": "QUIÑONES",
+  "dni": "6505977",
+  "telefono": 67471556,
+  "direccion": "OTB LA VIÑA DISTRITO 6",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III MANTENIMIENTO DE ESTAB. DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad163"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d2902b98c9519867b98d2c"
+  },
+  "nombre": "CAREM AGAR",
+  "paterno": "AREBALO",
+  "materno": "POMA",
+  "dni": "12430940",
+  "telefono": 73754015,
+  "direccion": "ZONA  CHIMBOCO-D1",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II UAIN@",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad165"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d2c6a798c9519867b9bdeb"
+  },
+  "nombre": "GUNAR",
+  "paterno": "LOZANO",
+  "materno": "ROSAS",
+  "dni": "8013158",
+  "telefono": 73766398,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV BIENES INM., VEHICULOS Y ACT. ECON. D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad167"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d2db6d98c9519867b9e6d0"
+  },
+  "nombre": "ADONAI",
+  "paterno": "PANCORBO",
+  "materno": "CAMACHO",
+  "dni": "5906486",
+  "telefono": 70745219,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II REDES Y TELECOMUNICACIONES ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad169"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d2e90a98c9519867ba03a5"
+  },
+  "nombre": "NELIA",
+  "paterno": "VALENCIA",
+  "materno": "SIANCAS",
+  "dni": "7995440",
+  "telefono": 75937319,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I CAJAS H. SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d3caec98c9519867ba55bf"
+  },
+  "nombre": "ROGER ROY",
+  "paterno": "SOLIZ",
+  "materno": "HEREDIA",
+  "dni": "5317585",
+  "telefono": 71701771,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRATIVO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad16d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d3dc4898c9519867ba70df"
+  },
+  "nombre": "HENRY",
+  "paterno": "LEDEZMA",
+  "materno": "ZAMBRANA",
+  "dni": "6486138",
+  "telefono": 76435748,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D-2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad16f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d3e96698c9519867ba9082"
+  },
+  "nombre": "LENNY LIZBETH",
+  "paterno": "ANDIA",
+  "materno": "OVANDO",
+  "dni": "5182944",
+  "telefono": 74310761,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ARCHIVOS DE CONTABILIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad171"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d3ef6198c9519867baa280"
+  },
+  "nombre": "NEPTALY",
+  "paterno": "MUNDOCORRE",
+  "materno": "ZENTENO",
+  "dni": "8661311",
+  "telefono": 65328293,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. III ADMINISTRATIVO HOSPITAL SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad173"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d7eb523e703c854e08e8c2"
+  },
+  "nombre": "ELOY",
+  "paterno": "RIVERA",
+  "materno": "CUBA",
+  "dni": "8799458",
+  "telefono": 74348874,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I MANTENIMIENTO DE SISTEMAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad175"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d82c2ad1b886ea28bea756"
+  },
+  "nombre": "YESSICA",
+  "paterno": "ROJAS",
+  "materno": "COLQUE",
+  "dni": "9684231",
+  "telefono": 78319174,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. II DE COMUNICACION Y MTK DE INGRESOS MUNICPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad177"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d83072d1b886ea28beae14"
+  },
+  "nombre": "EVER WINDER",
+  "paterno": "VALVERDE",
+  "materno": "GALARZA",
+  "dni": "4445494",
+  "telefono": 76430109,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE SERVICIOS ELECTRICOS Y SEMAFORIZACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad179"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d961c4d1b886ea28bf6573"
+  },
+  "nombre": "PAOLA MARIANA",
+  "paterno": "CACERES",
+  "materno": "GONZALES",
+  "dni": "5919478",
+  "telefono": 67466299,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "MEDICO FORENSE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad17b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d963fbd1b886ea28bf69a9"
+  },
+  "nombre": "MARGARITA S.",
+  "paterno": "HEREDIA",
+  "materno": "ZAMBRANA",
+  "dni": "5930903",
+  "telefono": 62611388,
+  "direccion": "AV. TERCERA ESQ. GLORIETA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV DE ORGANIZACION Y METODOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad17d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d964b9d1b886ea28bf6a9b"
+  },
+  "nombre": "MARLEN",
+  "paterno": "OSINAGA",
+  "materno": "ALBA",
+  "dni": "5184349",
+  "telefono": 70768441,
+  "direccion": "AV. JUAN JOSE TORREZ, S/N KM 4,5",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFA DE PLANIFICACION ESTRATEGICA (AI)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad17f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d976fbd1b886ea28bf8e79"
+  },
+  "nombre": "BORIS C.",
+  "paterno": "ANDRADE",
+  "materno": "SOLIS",
+  "dni": "5919347",
+  "telefono": 70739573,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. DE BIENES INMUEBLES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad181"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d978a8d1b886ea28bf9154"
+  },
+  "nombre": "JUAN C.",
+  "paterno": "GARCIA",
+  "materno": "ZAMBRANA",
+  "dni": "6496330",
+  "telefono": 67424243,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. II DE BIENES MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad183"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d9796ad1b886ea28bf928b"
+  },
+  "nombre": "JUAN MANUEL",
+  "paterno": "LOPEZ",
+  "materno": "ZAMORA",
+  "dni": "6561520",
+  "telefono": 70476324,
+  "direccion": "SACABA",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I SANEAMIENTO DE BIENES MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad185"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d98b0ed1b886ea28bfccc5"
+  },
+  "nombre": "GILDA MAVEL",
+  "paterno": "VARGAS",
+  "materno": "ESCUDERO",
+  "dni": "6466656",
+  "telefono": 70779273,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV DE ASUNTOS DE GENERO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad187"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d99197d1b886ea28bfdcaa"
+  },
+  "nombre": "H. VICENTE",
+  "paterno": "VASQUEZ",
+  "materno": "CAYOJA",
+  "dni": "3774071RPA",
+  "telefono": 77484894,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "RESPONSABLE DEL PROCESO DE CONTRATACION DE APOYO NAL. A LA PROD. EMP (RPA)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad189"
+  }
+},
+{
+  "_id": {
+    "$oid": "63d9937cce38a01acab5d2fc"
+  },
+  "nombre": "JOSE SERGIO",
+  "paterno": "GOITIA",
+  "materno": "URIOSTE",
+  "dni": "6554547",
+  "telefono": 62696965,
+  "direccion": "AV/ FORESTAL OTB SUMAJ WASI",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III  DE PROYECTOS CIVILES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad18b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dad0e1ce38a01acab6abc5"
+  },
+  "nombre": "ALEX RONALD",
+  "paterno": "CORRALES",
+  "materno": "ALMENDRAS",
+  "dni": "8044819",
+  "telefono": 79771092,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "\tJEFE DE SERVICIOS DE URBANISMO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad18d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dad723ce38a01acab6b9ac"
+  },
+  "nombre": "ANDREA",
+  "paterno": "ROJAS",
+  "materno": "MONTAÑO",
+  "dni": "6544612",
+  "telefono": 65366866,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PLANIFICADOR ADMIN. TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad18f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dadd42ce38a01acab6c7ce"
+  },
+  "nombre": "MIGUEL ANGEL",
+  "paterno": "CAYOJA",
+  "materno": "LOPEZ",
+  "dni": "9392490",
+  "telefono": 65505163,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II TRIBUTARIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad191"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dae3ddce38a01acab6d97c"
+  },
+  "nombre": "LAURA ALEJANDRA",
+  "paterno": "GARCIA",
+  "materno": "PADILLA",
+  "dni": "6496295",
+  "telefono": 75924559,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III PLANI. DE DESARROLLO HUMANO INTEGRAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad193"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dbbb3a64a359b3a700fe4c"
+  },
+  "nombre": "DANITZA",
+  "paterno": "SANCHEZ",
+  "materno": "OLIVERA",
+  "dni": "13658545",
+  "telefono": 63932555,
+  "direccion": "CALLE 10 DE JUNIO Y 27 DE MAYO SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "AUX. II VENTANILLA UNICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad195"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dbc9e064a359b3a70118f0"
+  },
+  "nombre": "JIMENA",
+  "paterno": "COLQUE",
+  "materno": "VARGAS",
+  "dni": "5290191",
+  "telefono": 75925743,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "AUX. DE VENTANILLA UNICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad197"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dc2177ab409d936736d2b3"
+  },
+  "nombre": "MARTHA",
+  "paterno": "VELASQUEZ",
+  "materno": "VEISAGA",
+  "dni": "8006716",
+  "telefono": 71479599,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV ADMINISTRATIVO ESTAB. DE SALUD DE 1 NIVEL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad199"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dc25cfab409d936736dbe5"
+  },
+  "nombre": "NEYSA",
+  "paterno": "MUNDOCORRE",
+  "materno": "ZENTENO",
+  "dni": "6518420",
+  "telefono": 78339667,
+  "direccion": "SACABA - VILLA OBRAJES - FINAL COLOMBIA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE FORMACION ARTISTICA Y FOMENTO A LA CULTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad19b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dcfe5fab409d9367372daa"
+  },
+  "nombre": "LUIS ALBERTO",
+  "paterno": "MARQUEZ",
+  "materno": "",
+  "dni": "3749839",
+  "telefono": 74510100,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I SERVICIOS GENERALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad057"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd0345ab409d93673733c9"
+  },
+  "nombre": "FUNCIONARIO",
+  "paterno": "POR DESIGNAR",
+  "materno": "VEHICULOS",
+  "dni": "9876543",
+  "telefono": 78945612,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFE DE VEHICULOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad19f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd1179ab409d9367374e73"
+  },
+  "nombre": "ANDREA NOHELIA",
+  "paterno": "BAYA",
+  "materno": "AVILES",
+  "dni": "6404971",
+  "telefono": 70360565,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ASISTENTE ADMINISTRATIVO COMUSSA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd12ccab409d9367375190"
+  },
+  "nombre": "VANIA",
+  "paterno": "VILLANUEVA",
+  "materno": "AJATA",
+  "dni": "8054868",
+  "telefono": 78349692,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV FIM",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd144aab409d93673752bf"
+  },
+  "nombre": "ROSEMARY JANNETH ",
+  "paterno": "LLANQUE",
+  "materno": "AYALA",
+  "dni": "3554767",
+  "telefono": 73631176,
+  "direccion": "calle Ismael Céspedes s/n",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "COORDINADORA DE PROYECTOS MAYORES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd2dc1ab409d9367378043"
+  },
+  "nombre": "NADIR",
+  "paterno": "SIANCAS",
+  "materno": "VALENCIA",
+  "dni": "13036001",
+  "telefono": 67461544,
+  "direccion": "Tutimayu",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV TRABAJADORA SOCIAL DE DNA - SLIM D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd5996ab409d936737a98f"
+  },
+  "nombre": "JUAN",
+  "paterno": "FUENTES",
+  "materno": "LOPEZ",
+  "dni": "5907269",
+  "telefono": 71722336,
+  "direccion": "AV. VILLAZON KM.  4.5",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE CATASTRO D-2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd5cbfab409d936737ae8a"
+  },
+  "nombre": "JORGE",
+  "paterno": "FERNANDEZ",
+  "materno": "GONZALES",
+  "dni": "7976777",
+  "telefono": 69435422,
+  "direccion": "C/ JESUS LARA S/N CHACACOLLO SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ARCHIVOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1ab"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd5dabab409d936737b03d"
+  },
+  "nombre": "LUIS ALBERTO",
+  "paterno": "VEIZAGA",
+  "materno": "MAIDA",
+  "dni": "5906797",
+  "telefono": 65730045,
+  "direccion": "Av. Tercera entre Aniceto Medina Casi Guillermo Mercado Zona Arocagua",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.I ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1ad"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd6abbab409d936737d07e"
+  },
+  "nombre": "ELIZABETH",
+  "paterno": "DURAN",
+  "materno": "CALICHO",
+  "dni": "8776512",
+  "telefono": 68532673,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV FIM",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd6cf2ab409d936737d50f"
+  },
+  "nombre": "VANESSA ",
+  "paterno": "ZEBALLOS",
+  "materno": "RIOS",
+  "dni": "8824569",
+  "telefono": 76943401,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.IV ADQUISICIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63dd8485ab409d93673810ff"
+  },
+  "nombre": "GUSTAVO JUAN",
+  "paterno": "AGREDA",
+  "materno": "VARGAS",
+  "dni": "7937236",
+  "telefono": 79999455,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I SERVICIOS DE EDUCACION",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1b3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e15a0ce40da63e1be6d931"
+  },
+  "nombre": "CLAUDIA MARIA",
+  "paterno": "ROJAS",
+  "materno": "VALENCIA",
+  "dni": "4094083",
+  "telefono": 77922380,
+  "direccion": "SACABA",
+  "expedido": "CHUQUISACA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SANEAMIENTO TECNICO URBANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e15f10e40da63e1be6e275"
+  },
+  "nombre": "JOSE NEYER",
+  "paterno": "ARISPE",
+  "materno": "AGUILAR",
+  "dni": "6466281",
+  "telefono": 71496604,
+  "direccion": "AV. VILLAZON KM 9",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPÓGRAFO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1b7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e16672e40da63e1be6eea6"
+  },
+  "nombre": "JHONNY WILSON",
+  "paterno": "COCA",
+  "materno": "AGREDA",
+  "dni": "5153559-1g",
+  "telefono": 67474622,
+  "direccion": "Av. Tercera y pasaje ballivian",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "INSPECTOR ACTIVIDADES ECONÓMICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e16719e40da63e1be6efa4"
+  },
+  "nombre": "JOSE LUIS",
+  "paterno": "MIRANDA",
+  "materno": "SEJAS",
+  "dni": "5273042",
+  "telefono": 78336662,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "INSPECTOR DE URBANISMO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e24686e40da63e1be75a08"
+  },
+  "nombre": "NATALY CAROLAY",
+  "paterno": "PEREDO",
+  "materno": "DIAZ",
+  "dni": "13994468",
+  "telefono": 65327385,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. II VENTANILLA UNICA DE RECEP. DE DOC. D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e2989c6dc3c207e7ae0958"
+  },
+  "nombre": "WILDER",
+  "paterno": "PEREDO",
+  "materno": "RODRIGUEZ",
+  "dni": "7966103",
+  "telefono": 68476781,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I VEHICULOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1bf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e299166dc3c207e7ae0a61"
+  },
+  "nombre": "AMANDA LESLY",
+  "paterno": "CARBAJAL",
+  "materno": "BLACUTT",
+  "dni": "5927466",
+  "telefono": 69410510,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I VEHICULOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1bf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e2caf26dc3c207e7ae9229"
+  },
+  "nombre": "FRANZ MICHEL",
+  "paterno": "AJALVO",
+  "materno": "CASTRO",
+  "dni": "6541889",
+  "telefono": 67553991,
+  "direccion": "CATACHILLA BAJA - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I INSPECTOR D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e2cd246dc3c207e7ae9486"
+  },
+  "nombre": "JUAN RODRIGO",
+  "paterno": "GARCIA",
+  "materno": "GUTIERREZ",
+  "dni": "8663646",
+  "telefono": 77919352,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS AGRONOMIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1c5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e3b92c36f4911a578dc958"
+  },
+  "nombre": "NATALIA BEATRIZ",
+  "paterno": "BUSTAMANTE",
+  "materno": "SORIA",
+  "dni": "3766351",
+  "telefono": 70745482,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR TECNICO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e407171559fb6dd41a0f16"
+  },
+  "nombre": "LISHET",
+  "paterno": "VELASQUEZ",
+  "materno": "MUÑOZ",
+  "dni": "7996144",
+  "telefono": 69437390,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II DE PLANILLAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1c9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e412141559fb6dd41a21a7"
+  },
+  "nombre": "KEVIN HERBERT",
+  "paterno": "SANCHEZ",
+  "materno": "ROJAS",
+  "dni": "3749611",
+  "telefono": 72284396,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II DE RECURSOS HUMANOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1cb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e412f21559fb6dd41a2374"
+  },
+  "nombre": "CARINA",
+  "paterno": "TORRICO",
+  "materno": "LAMAS",
+  "dni": "6511064",
+  "telefono": 76494095,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I RECURSOS HUMANOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1cd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e417eb1559fb6dd41a2c9d"
+  },
+  "nombre": "NORMA",
+  "paterno": "VARGAS",
+  "materno": "MEJIA",
+  "dni": "6548954",
+  "telefono": 4445554,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SECRETARIA DESARROLLO HUMANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e5023e1559fb6dd41a8ee8"
+  },
+  "nombre": "OSCAR",
+  "paterno": "FERNANDEZ",
+  "materno": "CONDORI",
+  "dni": "5533642",
+  "telefono": 62646429,
+  "direccion": "Sacaba",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad023"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e504f31559fb6dd41a9250"
+  },
+  "nombre": "MIRKO WILLMAN",
+  "paterno": "PEREIRA",
+  "materno": "CARRANZA",
+  "dni": "1386627",
+  "telefono": 77570779,
+  "direccion": "Sacaba",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e5092d1559fb6dd41a9efd"
+  },
+  "nombre": "JANETH MELVI",
+  "paterno": "RIOS",
+  "materno": "COLQUE",
+  "dni": "5274636",
+  "telefono": 44444,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II ADMINISTRACION DEL SISTEMA BIOMETRICO Y VACACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e509ae1559fb6dd41a9fe5"
+  },
+  "nombre": "JENNY",
+  "paterno": "BERRIOS",
+  "materno": "ACARAPI",
+  "dni": "8787200",
+  "telefono": 76965583,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e5195f1559fb6dd41ac6a5"
+  },
+  "nombre": "OMAR",
+  "paterno": "SANCHEZ",
+  "materno": "MONTECINOS",
+  "dni": "6537179",
+  "telefono": 71762275,
+  "direccion": "AV. CIRCUNVALACIÓN ENTRE CALLE PERU",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e538c91559fb6dd41ad7d2"
+  },
+  "nombre": "MARIA ISABEL ",
+  "paterno": "PANOZO",
+  "materno": "ORELLANA",
+  "dni": "4994198",
+  "telefono": 70363929,
+  "direccion": "Z/HUAYLLANI CHICO KM.10-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III GESTIÓN Y CALIDAD DE SERVICIOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1db"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e53b5a1559fb6dd41adc31"
+  },
+  "nombre": "AURELIO",
+  "paterno": "MERIDA",
+  "materno": "USTARIZ",
+  "dni": "6419985",
+  "telefono": 72234086,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e53b691559fb6dd41adc4b"
+  },
+  "nombre": "JOEL",
+  "paterno": "QUISPE",
+  "materno": "COPA",
+  "dni": "8849977",
+  "telefono": 75990459,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II FINANCIERO DEL S.U.S.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1df"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e53e111559fb6dd41ae107"
+  },
+  "nombre": "JUAN CARLOS",
+  "paterno": "MOREIRA",
+  "materno": "CAYO",
+  "dni": "8038433",
+  "telefono": 72709587,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III - SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e540fb1559fb6dd41ae78b"
+  },
+  "nombre": "JHONNY",
+  "paterno": "CHAMBI",
+  "materno": "PANIAGUA",
+  "dni": "7939455",
+  "telefono": 72279195,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II FISCAL DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e65a163c1e678e36425750"
+  },
+  "nombre": "JAEL BELEN",
+  "paterno": "VARGAS",
+  "materno": "ALCOSER",
+  "dni": "8733144",
+  "telefono": 76448301,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II COBROS Y PAGOS DE SICOFS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e65b333c1e678e3642593f"
+  },
+  "nombre": "ALEX RONALD",
+  "paterno": "VILLAFAN",
+  "materno": "RAMIREZ",
+  "dni": "1335731",
+  "telefono": 77996180,
+  "direccion": "Sacaba",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e664393c1e678e36426ff3"
+  },
+  "nombre": "MILTON",
+  "paterno": "SOLIZ",
+  "materno": "MAMANI",
+  "dni": "8738254",
+  "telefono": 74813166,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e669193c1e678e36427eff"
+  },
+  "nombre": "OMAR",
+  "paterno": "ZAMBRANA",
+  "materno": "TERRAZAS",
+  "dni": "7982666",
+  "telefono": 70789455,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. III CONTABLE",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e6887d3c1e678e364297e0"
+  },
+  "nombre": "ERWIN",
+  "paterno": "BILBAO",
+  "materno": "DELGADILLO",
+  "dni": "5365174",
+  "telefono": 71443364,
+  "direccion": "Huayllani",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "FISCAL DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1ed"
+  }
+},
+{
+  "_id": {
+    "$oid": "63e697083c1e678e3642b3e5"
+  },
+  "nombre": "MARTHA",
+  "paterno": "LOPEZ",
+  "materno": "ZERNA",
+  "dni": "6548520",
+  "telefono": 60711812,
+  "direccion": "OTB SAN JACINTO DISTRITO 4",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ea3c00ab2a548943a1c9cf"
+  },
+  "nombre": "DAVID ALEJANDRO",
+  "paterno": "PEREDO",
+  "materno": "VILLARROEL",
+  "dni": "7890125",
+  "telefono": 75767520,
+  "direccion": "ROTONDA HUAYLLANY",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ea44eebc09bfad94055fbc"
+  },
+  "nombre": "ALDOMAR",
+  "paterno": "PRADO",
+  "materno": "CAMACHO",
+  "dni": "7893710",
+  "telefono": 69487828,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV CAJAS CEMENTERIO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1f3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ea920d04486801f352ba7e"
+  },
+  "nombre": "JOSE MIGUEL",
+  "paterno": "MEDRANO",
+  "materno": "SANTA CRUZ",
+  "dni": "6509052",
+  "telefono": 60788897,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad0a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "63eb7de304486801f3534c80"
+  },
+  "nombre": "JOSE MILTON",
+  "paterno": "HERRADA",
+  "materno": "PINAYA",
+  "dni": "7922556",
+  "telefono": 77994014,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE SERVICIOS CATASTRALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad04d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63eb850604486801f35358f5"
+  },
+  "nombre": "JHOSELIN ANDREA",
+  "paterno": "GUTIERREZ",
+  "materno": "ZAMBRANA",
+  "dni": "8675385",
+  "telefono": 61599373,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. II ARCHIVOS DE URBANISMO D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "63eb884504486801f3536074"
+  },
+  "nombre": "DAVID",
+  "paterno": "HUARACHI",
+  "materno": "MAMANI",
+  "dni": "8733022",
+  "telefono": 75480059,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRÁFO DE PLANIFICACIÓN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ebce3a2bf0ac1edff413ee"
+  },
+  "nombre": "LILIAN VANESSA ",
+  "paterno": "RODRIGUEZ ",
+  "materno": "CAMACHO",
+  "dni": "7135044",
+  "telefono": 77194304,
+  "direccion": "C/10 DE JUNIO ENTRE SANTA CRUZ",
+  "expedido": "TARIJA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE TRIBUTACIÓN DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ebd0992bf0ac1edff41768"
+  },
+  "nombre": "MILTON RENE",
+  "paterno": "PARDO",
+  "materno": "CAMACHO",
+  "dni": "3778854",
+  "telefono": 71717574,
+  "direccion": "ZONA AROCAGUA ",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ebde652bf0ac1edff44477"
+  },
+  "nombre": "GERALDINE P.",
+  "paterno": "RODRIGUEZ",
+  "materno": "YRAISOS",
+  "dni": "7314345",
+  "telefono": 78202411,
+  "direccion": "SACABA",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ADM. DE SERVICIOS MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad201"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ebe8032bf0ac1edff45c9b"
+  },
+  "nombre": "JHONNY",
+  "paterno": "CESPEDES",
+  "materno": "CARBALLO",
+  "dni": "6441273",
+  "telefono": 76966545,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ece5f2b45101d5d95c703a"
+  },
+  "nombre": "NOEMI",
+  "paterno": "MAMANI",
+  "materno": "JACHACATA",
+  "dni": "8798868",
+  "telefono": 75929139,
+  "direccion": "Pacata Baja C/ MR Saravia de lanza",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ADMINISTRATIVO D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad205"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ece762b45101d5d95c7362"
+  },
+  "nombre": "ZAIDA",
+  "paterno": "SOLIS",
+  "materno": "",
+  "dni": "7942019",
+  "telefono": 71465320,
+  "direccion": "QUINTANILLA KM 4",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV BIENES INMUEBLES,ACT. ECON. VEH. Y CAT. D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad207"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecec58b45101d5d95c7b08"
+  },
+  "nombre": "ERICK WALDO",
+  "paterno": "NUÑEZ",
+  "materno": "SALAZAR",
+  "dni": "6475971",
+  "telefono": 79986392,
+  "direccion": "PACATA BAJA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV NORMAS Y REGLAMENTOS D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad209"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecf029b45101d5d95c84b3"
+  },
+  "nombre": "LIZ LENITH ",
+  "paterno": "LOPEZ",
+  "materno": "LIMON",
+  "dni": "8550281",
+  "telefono": 79451324,
+  "direccion": "DISTRITO 6 EL ABRA, URB LA VIÑA CALLE INNOMINADA",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS DE ARQUITECTURA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad20b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecf2c74076d0cdd0c83aa3"
+  },
+  "nombre": "IVAN CARLOS",
+  "paterno": "ALCONZ",
+  "materno": "LEDEZMA",
+  "dni": "7996541",
+  "telefono": 73753730,
+  "direccion": "Km 8 1/2 Av. Villazón - zona Chullpa Moko ",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad20d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecf3614076d0cdd0c83c0f"
+  },
+  "nombre": "NICOLAS BEYMAR",
+  "paterno": "SAAVEDRA",
+  "materno": "ROMERO",
+  "dni": "5224790",
+  "telefono": 72292654,
+  "direccion": "Pacata Alta c/juan gomez",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SERVICIOS DE URBANISMO D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad20f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecfa2df08e9fbdbdffb2af"
+  },
+  "nombre": "WLADIMIR",
+  "paterno": "FAVIANI",
+  "materno": "CRUZ",
+  "dni": "1864547",
+  "telefono": 71743295,
+  "direccion": "Calle las magnolias s/n",
+  "expedido": "TARIJA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ASESOR JURIDICO D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad211"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ecfb06f08e9fbdbdffb3b0"
+  },
+  "nombre": "WILDER",
+  "paterno": "VARGAS",
+  "materno": "ROSAS",
+  "dni": "6412855",
+  "telefono": 72743594,
+  "direccion": "CALLE TARIJA NRO 032",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I MANTENIMIENTO SISTEMAS DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad213"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ed03e9f08e9fbdbdffc3b2"
+  },
+  "nombre": "ANAHI MEYBOL",
+  "paterno": "SOLIZ",
+  "materno": "SOLIZ ",
+  "dni": "6458199",
+  "telefono": 61603538,
+  "direccion": "PACATA ALTA OTB PRIMAVERA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PSICOLOGA DNNA - SLIM D3 ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad215"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ed0510f08e9fbdbdffc42f"
+  },
+  "nombre": "ROSMERY",
+  "paterno": "OVIDIO",
+  "materno": "HEREDIA",
+  "dni": "5251506",
+  "telefono": 71797101,
+  "direccion": "AV. CHAPARE",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PSICÓLOGA DNNA D7",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad217"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ed4683f08e9fbdbd002209"
+  },
+  "nombre": "ADRIANA J.",
+  "paterno": "VALENCIA",
+  "materno": "SOLIZ",
+  "dni": "8032990",
+  "telefono": 79730523,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV TRABAJO SOCIAL DE DNNA D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad219"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ed47e4f08e9fbdbd002428"
+  },
+  "nombre": "JAQUELINE ",
+  "paterno": "JUSTINIANO",
+  "materno": "VILLAGOMEZ",
+  "dni": "3168331",
+  "telefono": 71757249,
+  "direccion": "SACABA",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.IV ASESOR JURIDICO DNA D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad21b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ed4897f08e9fbdbd002566"
+  },
+  "nombre": "NADHIA MILENKA",
+  "paterno": "GALVEZ",
+  "materno": "GIL",
+  "dni": "4041074",
+  "telefono": 77444116,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PSICOLOGA D2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad21d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ef810f06e6694f758fd3ca"
+  },
+  "nombre": "JOSE EDWIN ",
+  "paterno": "NOGALES",
+  "materno": "ORELLANA",
+  "dni": "5161224COPIA",
+  "telefono": 74355680,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.II ASESOR TÉCNICO GESTIÓN URBANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad21f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63efbfe806e6694f7590486e"
+  },
+  "nombre": "BRAYAN ",
+  "paterno": "VALLEJOS",
+  "materno": "SORIA",
+  "dni": "8019454",
+  "telefono": 76948025,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III REGIÓN METROPOLITANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad221"
+  }
+},
+{
+  "_id": {
+    "$oid": "63efc0a906e6694f759049ce"
+  },
+  "nombre": "DAYSI S.",
+  "paterno": "ALVARADO",
+  "materno": "ARAMAYO",
+  "dni": "6439449",
+  "telefono": 76941477,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "63efc44106e6694f75905114"
+  },
+  "nombre": "LINETH",
+  "paterno": "CASTELLON",
+  "materno": "GOMEZ",
+  "dni": "7920529",
+  "telefono": 77921383,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "PROF. III DEFENSORIA DE LA NIÑES Y ADOLESCENCIA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad225"
+  }
+},
+{
+  "_id": {
+    "$oid": "63efda6d06e6694f759091f2"
+  },
+  "nombre": "EMILY",
+  "paterno": "VARGAS",
+  "materno": "SANDOVAL",
+  "dni": "5161385",
+  "telefono": 67470833,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV ADQUISICIONES SK",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad227"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f6604406e6694f75914111"
+  },
+  "nombre": "NELIA",
+  "paterno": "CESPEDES",
+  "materno": "TRUJILLO",
+  "dni": "8511043",
+  "telefono": 68443359,
+  "direccion": "C/ COLQUECHACA NRO 686-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV CATASTRO DE SANEAMIENTO TEC. URBANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad229"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f6613f06e6694f75914348"
+  },
+  "nombre": "WILSON F.",
+  "paterno": "SOLIZ",
+  "materno": "CASTELLON",
+  "dni": "5196853",
+  "telefono": 63932019,
+  "direccion": "AV. CHAPARE KM 7 1/2 SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I SANEAMIENTO TEC. URBANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad22b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f661f806e6694f75914482"
+  },
+  "nombre": "DANIA",
+  "paterno": "RIVERA",
+  "materno": "ARANIBAR",
+  "dni": "13036105",
+  "telefono": 68443359,
+  "direccion": "AV. VILLAZON KM 4-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ASESOR JURIDICO DE SANEAMIENTO TEC. URB",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad22d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f662cb06e6694f7591457c"
+  },
+  "nombre": "FABIOLA G.",
+  "paterno": "TERAN",
+  "materno": "PEREDO",
+  "dni": "7884538",
+  "telefono": 76940008,
+  "direccion": "C/SUCRE FINAL-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ORDENAMIENTO TERRITORIAL DE SANEAMIENTO TEC. URB.",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad22f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f7656aa68e6f18adef1797"
+  },
+  "nombre": "NEISA",
+  "paterno": "GARCIA",
+  "materno": "CARVAJAL",
+  "dni": "8682375",
+  "telefono": 60365144,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. ADMINISIONISTA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad231"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f77149a68e6f18adef3098"
+  },
+  "nombre": "O. JANETH",
+  "paterno": "ANTEZANA",
+  "materno": "SANCHEZ",
+  "dni": "5272413",
+  "telefono": 72790597,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PRO. IV ASESOR JURIDICO DE DEFENSORIA. N. N. Y A. D-RURAL PALCA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad233"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f7b6f7a68e6f18adef8bfe"
+  },
+  "nombre": "ZENON",
+  "paterno": "CACERES",
+  "materno": "CASTRO",
+  "dni": "3509384",
+  "telefono": 67686867,
+  "direccion": "SACABA",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I TESORERIA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad235"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f7c0d9a68e6f18adefa222"
+  },
+  "nombre": "KEVIN ADAMO",
+  "paterno": "TRUJILLO",
+  "materno": "APAZA",
+  "dni": "4052456",
+  "telefono": 73848221,
+  "direccion": "Sacaba",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II PROYECTOS DE ARQUITECTURA MAYORES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad237"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f7e85aa020cb07b7b6fb09"
+  },
+  "nombre": "VANESA",
+  "paterno": "FLORES",
+  "materno": "TERRAZAS",
+  "dni": "8683802",
+  "telefono": 68578934,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV ADQUISICIONES HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad239"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f8d21da020cb07b7b75920"
+  },
+  "nombre": "BLANCA R.",
+  "paterno": "CORRALES",
+  "materno": "GUMUCIO",
+  "dni": "7982506",
+  "telefono": 65731865,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC II. ADMINISTRATIVO HPTAL. SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad23b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63f90ce9474220749422d7ee"
+  },
+  "nombre": "LIZZETT",
+  "paterno": "SOLIS",
+  "materno": "AGUILAR",
+  "dni": "8784963",
+  "telefono": 67513270,
+  "direccion": "ESMERALDA NORTE KM 7",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III CONTABLE DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad23d"
+  }
+},
+{
+  "_id": {
+    "$oid": "63fce6145e28b9a239eda9a8"
+  },
+  "nombre": "GUSTAVO",
+  "paterno": "CARO",
+  "materno": "TRUJILLO",
+  "dni": "7952848",
+  "telefono": 76936908,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV. DE ACTIVIDADES ECONOMICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad23f"
+  }
+},
+{
+  "_id": {
+    "$oid": "63fe5663decc5d389a1569b6"
+  },
+  "nombre": "JUAN PABLO",
+  "paterno": "HEREDIA",
+  "materno": "ROJAS",
+  "dni": "7899574",
+  "telefono": 70700487,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I ADMINISTRATIVO DEL CENTRO DE DISCAPACIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad241"
+  }
+},
+{
+  "_id": {
+    "$oid": "63fe68f1decc5d389a159931"
+  },
+  "nombre": "ANA ROSA",
+  "paterno": "LOZANO",
+  "materno": "DIAZ",
+  "dni": "7861074",
+  "telefono": 72244865,
+  "direccion": "AYACUCHO-SACABA CENTRAL",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE ASUNTOS DE GENERO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad243"
+  }
+},
+{
+  "_id": {
+    "$oid": "63fe7951decc5d389a15c3bd"
+  },
+  "nombre": "YURI",
+  "paterno": "ARELLANO",
+  "materno": "DELGADO",
+  "dni": "4440091",
+  "telefono": 76423510,
+  "direccion": "ZONA PUNTITI GRANDE SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "SUB ALCALDE D3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad245"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ff6169decc5d389a162449"
+  },
+  "nombre": "SERGIO",
+  "paterno": "GARCIA",
+  "materno": "HEREDIA",
+  "dni": "8053445",
+  "telefono": 71490778,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ff6d4723f4e659697bd0d8"
+  },
+  "nombre": "GABRIELA",
+  "paterno": "LEDEZMA",
+  "materno": "NOGALES",
+  "dni": "3486732",
+  "telefono": 60708404,
+  "direccion": "SACABA",
+  "expedido": "LA PAZ",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "JEFA DE PROG. DE OPERACIONES Y SEGUIMIENTO POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad249"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ff76cb23f4e659697beab3"
+  },
+  "nombre": "PAOLA",
+  "paterno": "ROCHA",
+  "materno": "MAGARIÑOS",
+  "dni": "7876144",
+  "telefono": 75920227,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I SERVICIOS Y FUNCIONAMIENTO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad24b"
+  }
+},
+{
+  "_id": {
+    "$oid": "63ff9ce9bf275da6e212b020"
+  },
+  "nombre": "DANIEL HENRRY",
+  "paterno": "FLORES",
+  "materno": "MONTAÑO",
+  "dni": "4506981",
+  "telefono": 72759031,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III SUPERVISOR DE OBRAS PUBLICAS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6400983e2cb2e030b871c998"
+  },
+  "nombre": "ROCIO SORAYA",
+  "paterno": "VELIZ",
+  "materno": "LOAYZA",
+  "dni": "4531511",
+  "telefono": 71497381,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. I SEGUIMIENTO Y MONITOREO POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad24f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6400be5a2cb2e030b8721837"
+  },
+  "nombre": "PAMELA",
+  "paterno": "CHAVEZ",
+  "materno": "CHAVEZ",
+  "dni": "7929790",
+  "telefono": 72217804,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I SERVICIOS Y FUNCIONAMIENTO DE EST. DE SALUD DE 1º NIVEL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad251"
+  }
+},
+{
+  "_id": {
+    "$oid": "6401e42038364a8ef55ad7d3"
+  },
+  "nombre": "MARISABEL",
+  "paterno": "MONTAÑO",
+  "materno": "SARMIENTO",
+  "dni": "7934751",
+  "telefono": 73787153,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PSICOLOGO DE LA N. Y A. D. RURAL UCUCHI",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad253"
+  }
+},
+{
+  "_id": {
+    "$oid": "6406545aaeeeb6eab064dd1c"
+  },
+  "nombre": "EDSON E.",
+  "paterno": "RIVERA",
+  "materno": "ZAMBRANA",
+  "dni": "3771926",
+  "telefono": 76366663,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II PROM. DIVERSIDAD CULTURAL Y PATRIMONIO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad255"
+  }
+},
+{
+  "_id": {
+    "$oid": "64065ba5aeeeb6eab064ebfd"
+  },
+  "nombre": "BLADIMIR",
+  "paterno": "GALINDO",
+  "materno": "CADIMA",
+  "dni": "6416878",
+  "telefono": 60754234,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I DE CONTROL SANITARIO Y ZOONOSIS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad257"
+  }
+},
+{
+  "_id": {
+    "$oid": "64079eb0723f082c070e6b73"
+  },
+  "nombre": "DAMARIZ",
+  "paterno": "MUÑOZ",
+  "materno": "GUTIERREZ",
+  "dni": "8834728",
+  "telefono": 61627767,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TEC. II DE EXPLOTACION Y SUPERVISION DE PLANTACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad259"
+  }
+},
+{
+  "_id": {
+    "$oid": "6407a044723f082c070e6f71"
+  },
+  "nombre": "GUERY",
+  "paterno": "CUELLAR",
+  "materno": "PEDRAZA",
+  "dni": "6228263",
+  "telefono": 71762869,
+  "direccion": "Sacaba",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ADMINISTRADOR",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad25b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6408a1d9723f082c070f3b1f"
+  },
+  "nombre": "ANDRES ENRIQUE",
+  "paterno": "FRONTANILLA ",
+  "materno": "LOZA",
+  "dni": "7985978",
+  "telefono": 77423128,
+  "direccion": "QUINTANILLA CALLE 3",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "AUX. ARCHIVO D-4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad25d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409dc91b3c9ef89ef0e4f8d"
+  },
+  "nombre": "LEONARDO A.",
+  "paterno": "LOPEZ",
+  "materno": "REVOLLO",
+  "dni": "5268567",
+  "telefono": 76480695,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE BIENES MUNICIPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad25f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409ecc7b3c9ef89ef0e7fc8"
+  },
+  "nombre": "AMERICO",
+  "paterno": "ALCOCER",
+  "materno": "UZEDA",
+  "dni": "6548607",
+  "telefono": 79735840,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ESTADISTICA MUNICIPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad261"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409fe3fb3c9ef89ef0ec6cf"
+  },
+  "nombre": "SIMON",
+  "paterno": "CONDORI",
+  "materno": "LUCANA",
+  "dni": "6406109",
+  "telefono": 63916101,
+  "direccion": "C/Innomidada Zona Abra Central",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I MTTO SISTEMAS DE SEGURIDAD CIUDADANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad263"
+  }
+},
+{
+  "_id": {
+    "$oid": "6409fff0b3c9ef89ef0ecd7f"
+  },
+  "nombre": "JHOSELYN",
+  "paterno": "REVOLLO",
+  "materno": "ARISPE",
+  "dni": "12520273",
+  "telefono": 78321814,
+  "direccion": "SACABA-LAVA LAVA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PLANIFICADOR OCUPACIONAL TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad265"
+  }
+},
+{
+  "_id": {
+    "$oid": "640a0225b3c9ef89ef0ed389"
+  },
+  "nombre": "MARCIA A.",
+  "paterno": "ORDOÑEZ",
+  "materno": "AYALA ",
+  "dni": "6405760",
+  "telefono": 79724451,
+  "direccion": "COND SANTA SOFIA  KM 4 1/2 AV VILLAZON",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE SEG. Y MONITOREO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad267"
+  }
+},
+{
+  "_id": {
+    "$oid": "640f302aabb13988a699716d"
+  },
+  "nombre": "PABLO A.",
+  "paterno": "ORELLANA",
+  "materno": "CARDOZO",
+  "dni": "6403334",
+  "telefono": 79751879,
+  "direccion": "2DA CIRCUNVALACION- SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ESTADISTICA MUNICIPAL ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad269"
+  }
+},
+{
+  "_id": {
+    "$oid": "6413127daa5a3a3fe368693f"
+  },
+  "nombre": "FREDDY",
+  "paterno": "SIANCAS",
+  "materno": "CAVEROS",
+  "dni": "6534837",
+  "telefono": 63903123,
+  "direccion": "TUTIMAYU-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE INTENDENCIA MUNICIPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad26b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64145ef2aa5a3a3fe36985bf"
+  },
+  "nombre": "MARCO",
+  "paterno": "VELASQUEZ",
+  "materno": "ARDAYA",
+  "dni": "5216508",
+  "telefono": 76424631,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE AREAS VERDES PARQUES Y JARDINES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad26d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6414b20caa5a3a3fe36a0035"
+  },
+  "nombre": "ROLANDO",
+  "paterno": "SALGUERO",
+  "materno": "",
+  "dni": "4511394",
+  "telefono": 67492676,
+  "direccion": "CALLE COLOMBIA - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II DE EXPLOTACION Y SUP. DE PLANTACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad26f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6414e396aa5a3a3fe36a7974"
+  },
+  "nombre": "KAREN I.",
+  "paterno": "MORALES",
+  "materno": "AREQUIPA",
+  "dni": "4846056",
+  "telefono": 70764423,
+  "direccion": "URB. SIDUMSS NORTE ZONA QUINTANILLA SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad271"
+  }
+},
+{
+  "_id": {
+    "$oid": "641b12cd52ae1dcf562df891"
+  },
+  "nombre": "RUBY Y.",
+  "paterno": "QUIROZ",
+  "materno": "ARNEZ",
+  "dni": "9456642",
+  "telefono": 67432392,
+  "direccion": "CONDOMINIO BARCELONA ZONA AROCAGUA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PROYECTOS CIVILES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad273"
+  }
+},
+{
+  "_id": {
+    "$oid": "641b64553b674e5d13b033dc"
+  },
+  "nombre": "VICTOR H.",
+  "paterno": "OROZCO",
+  "materno": "SOLIS",
+  "dni": "6512224",
+  "telefono": 75905218,
+  "direccion": "CALLE GRANADO 25 DE JULIO - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PREVENSION CONTRA VIOLENCIA (SLIM-DNA)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad275"
+  }
+},
+{
+  "_id": {
+    "$oid": "641daa295471c8bed2c68cf8"
+  },
+  "nombre": "JAVIER",
+  "paterno": "IQUISI",
+  "materno": "CAZORLA",
+  "dni": "8834355",
+  "telefono": 60752489,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I INSPECTOR D-3",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad277"
+  }
+},
+{
+  "_id": {
+    "$oid": "641de8cc3f7d3c29587eb29e"
+  },
+  "nombre": "GONZALO",
+  "paterno": "MEDINA",
+  "materno": "FERNANDEZ",
+  "dni": "4042242",
+  "telefono": 71779461,
+  "direccion": "SACABA",
+  "expedido": "ORURO",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.IV PROYECTO DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad279"
+  }
+},
+{
+  "_id": {
+    "$oid": "641de9393f7d3c29587eb390"
+  },
+  "nombre": "JIMMY",
+  "paterno": "MENESES",
+  "materno": "CABALLERO",
+  "dni": "5237822",
+  "telefono": 79706566,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PROYECTOS DE ARQUITECTURA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad27b"
+  }
+},
+{
+  "_id": {
+    "$oid": "641e16ff3f7d3c29587f26e9"
+  },
+  "nombre": "JACQUELINE",
+  "paterno": "VELIZ",
+  "materno": "QUINTEROS",
+  "dni": "4500981",
+  "telefono": 73759863,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE (A) ADMINISTRATIVO HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad27d"
+  }
+},
+{
+  "_id": {
+    "$oid": "64234180aa33568a9590cca2"
+  },
+  "nombre": "GUMERCINDO",
+  "paterno": "CASTRO",
+  "materno": "VALENCIA",
+  "dni": "5911979",
+  "telefono": 68456345,
+  "direccion": "MORRO-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III MANTENIMIENTO DE ESTAB. DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad163"
+  }
+},
+{
+  "_id": {
+    "$oid": "64235668aa33568a95910291"
+  },
+  "nombre": "MARIA NARDI",
+  "paterno": "PONCE",
+  "materno": "POZO",
+  "dni": "7930396",
+  "telefono": 60391131,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. 3 ADMINISTRATIVO HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad281"
+  }
+},
+{
+  "_id": {
+    "$oid": "64245504aa33568a95919c22"
+  },
+  "nombre": "MIGUEL ANGEL",
+  "paterno": "COCA",
+  "materno": "ARTEAGA",
+  "dni": "10534160",
+  "telefono": 74119878,
+  "direccion": "SACABA",
+  "expedido": "POTOSI",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. IV ALMACENES HOSP. SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad283"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b27f58c1886d36dea5fd2"
+  },
+  "nombre": "FERNANDO J.",
+  "paterno": "REYNAGA",
+  "materno": "DIAZ",
+  "dni": "5934428",
+  "telefono": 61609616,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II DE COMUNICACION Y MTK DE INGRESOS MUNICPALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad177"
+  }
+},
+{
+  "_id": {
+    "$oid": "642b30b38c1886d36dea72fd"
+  },
+  "nombre": "OSCAR ",
+  "paterno": "FRANCO",
+  "materno": "SANCHEZ",
+  "dni": "3753123",
+  "telefono": 70767628,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "MEDICO GENERAL DE SEGUROS PUBLICOS HOSPITAL SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad287"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c1e2b8c1886d36deae8a3"
+  },
+  "nombre": "CELIA",
+  "paterno": "MUÑOZ",
+  "materno": "NAVIA",
+  "dni": "7899689",
+  "telefono": 74377402,
+  "direccion": "QUINTANILLA-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II ACTIVOS FIJOS HOSPITAL MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad289"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c8a098c1886d36deba1c1"
+  },
+  "nombre": "WILDE",
+  "paterno": "OROSCO",
+  "materno": "PEÑARRIETA",
+  "dni": "7996009",
+  "telefono": 71725756,
+  "direccion": "VILLA OBRAJES-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad28b"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c8bbf8c1886d36deba6ca"
+  },
+  "nombre": "VALERIA IRINA",
+  "paterno": "SOUX",
+  "materno": "POL",
+  "dni": "8792228",
+  "telefono": 60766663,
+  "direccion": "AYACUCHO-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad28d"
+  }
+},
+{
+  "_id": {
+    "$oid": "642c8cb48c1886d36deba7e8"
+  },
+  "nombre": "JOSE PEDRO",
+  "paterno": "MUÑOZ",
+  "materno": "CESPEDES",
+  "dni": "8661553",
+  "telefono": 71751488,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad28f"
+  }
+},
+{
+  "_id": {
+    "$oid": "642ec91342061830b09000cf"
+  },
+  "nombre": "LENNY",
+  "paterno": "CONDORI",
+  "materno": "OCAMPO",
+  "dni": "8681618",
+  "telefono": 72707246,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "MEDICO GENERAL DE SEGUROS PUBLICOS HOSP MEXICO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad291"
+  }
+},
+{
+  "_id": {
+    "$oid": "642eee6e42061830b0906525"
+  },
+  "nombre": "VERONICA ARIANE",
+  "paterno": "BRAVO",
+  "materno": "MAYORA",
+  "dni": "5397194",
+  "telefono": 60390890,
+  "direccion": "Sacaba",
+  "expedido": "SANTA CRUZ",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV DE DESARROLLO DE SISTEMA SEICU",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad293"
+  }
+},
+{
+  "_id": {
+    "$oid": "642f0a5843f94e6245fb3489"
+  },
+  "nombre": "EDDY SAMUEL",
+  "paterno": "CUBA",
+  "materno": "JALDIN",
+  "dni": "8022779",
+  "telefono": 79989483,
+  "direccion": "SACABA-VILLA OBRAJES",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS CIVILES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad295"
+  }
+},
+{
+  "_id": {
+    "$oid": "642f0afe43f94e6245fb35bf"
+  },
+  "nombre": "EDWARD",
+  "paterno": "SANCHEZ",
+  "materno": "VILLARROEL",
+  "dni": "8051510",
+  "telefono": 76415293,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS CIVILES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad295"
+  }
+},
+{
+  "_id": {
+    "$oid": "6437f6b35ce4ebc64212b179"
+  },
+  "nombre": "REMBERTO",
+  "paterno": "JACHACATA",
+  "materno": "SIMON",
+  "dni": "9303949",
+  "telefono": 68454575,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II ACTIVOS FIJOS HOSPITAL SOLOMON KLEIN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad299"
+  }
+},
+{
+  "_id": {
+    "$oid": "64386aefcd786dd32b68c1ca"
+  },
+  "nombre": "NELLY",
+  "paterno": "MONTAÑO",
+  "materno": "MUÑOZ",
+  "dni": "7940575",
+  "telefono": 68550259,
+  "direccion": "CANAL PATA CENTRAL -SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. II SEGUIMIENTO Y MONITOREO POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad29b"
+  }
+},
+{
+  "_id": {
+    "$oid": "643943845c7bf8403a25b95f"
+  },
+  "nombre": "SUSANA DE LOS ANGELES",
+  "paterno": "ANGELES",
+  "materno": "VILLAGOMEZ",
+  "dni": "2773465",
+  "telefono": 4444444,
+  "direccion": "AV. VILLAZON -SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.II DE VENTANILLA UNICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad29d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6439bae45c7bf8403a26dee7"
+  },
+  "nombre": "LUIS ALBERTO",
+  "paterno": "CHAMBI",
+  "materno": "MAMANI",
+  "dni": "8835151",
+  "telefono": 71781835,
+  "direccion": "URB. SALUD-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "ALARIFE DE PLANIFICACIÓN",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad29f"
+  }
+},
+{
+  "_id": {
+    "$oid": "643fefa2fa758adc7df8a97e"
+  },
+  "nombre": "MARIA JILDA",
+  "paterno": "CAMACHO",
+  "materno": "SANCHEZ",
+  "dni": "8660597",
+  "telefono": 69525185,
+  "direccion": "MORRO-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "MEDICO DE SEGUROS PUBLICOS ESTABLECIMIENTOS DE SALUD DE 1ª NIVEL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "644004a2fa758adc7df8e2d0"
+  },
+  "nombre": "LILY ALEJANDRA",
+  "paterno": "TRILLO",
+  "materno": "ZEBALLOS",
+  "dni": "5182827",
+  "telefono": 79954253,
+  "direccion": "CALLE LAURELES-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE SERVICIO LEGAL INTEGRAL MUNICIPAL (SLIM)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "644039e6d6a59eeeb1e9d948"
+  },
+  "nombre": "HERLAND M.",
+  "paterno": "LAZARTE",
+  "materno": "ANTEZANA",
+  "dni": "8679088",
+  "telefono": 60749983,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "TOPÓGRAFO DE SANEAMIENTO TÉCNICO URBANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "644153bdd6a59eeeb1eac3d8"
+  },
+  "nombre": "RAUL",
+  "paterno": "CHOQUETOPA",
+  "materno": "CRUZ",
+  "dni": "8800558",
+  "telefono": 79377991,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I INSPECTOR DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2a7"
+  }
+},
+{
+  "_id": {
+    "$oid": "644a6ca0204ba4372d397029"
+  },
+  "nombre": "MARTIN",
+  "paterno": "ENCINAS",
+  "materno": "OVIDIO",
+  "dni": "8025939",
+  "telefono": 71450234,
+  "direccion": "AV. EL TUNER KM3 UBR. LA VIÑA -SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC.IV DE BIENES INMUEBLES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2a9"
+  }
+},
+{
+  "_id": {
+    "$oid": "644a78c8204ba4372d399026"
+  },
+  "nombre": "ANTONIA",
+  "paterno": "PEREZ",
+  "materno": "MAMANI",
+  "dni": "7982133",
+  "telefono": 71796429,
+  "direccion": "TACOPOCA ALTA-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE BIENES INMUEBLES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2ab"
+  }
+},
+{
+  "_id": {
+    "$oid": "644adec5b8a3116bdaf6de6a"
+  },
+  "nombre": "MOISES BRANDON",
+  "paterno": "ILLANES",
+  "materno": "MALDONADO",
+  "dni": "12491007",
+  "telefono": 62728122,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. CONTABLE DE TESORERIA DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2ad"
+  }
+},
+{
+  "_id": {
+    "$oid": "64512327b8a3116bdaf8e3f6"
+  },
+  "nombre": "YHOVANA R.",
+  "paterno": "LOPEZ",
+  "materno": "MENDOZA",
+  "dni": "8683798",
+  "telefono": 73717571,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX.I SERVICIOS Y FUNCIONAMIENTO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2af"
+  }
+},
+{
+  "_id": {
+    "$oid": "6453fd673d006d162487cc93"
+  },
+  "nombre": "SAMANTTA J.",
+  "paterno": "MORALES",
+  "materno": "ZENTENO",
+  "dni": "14073273",
+  "telefono": 60799223,
+  "direccion": "C/INCACHACA -SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. II DE RECURSOS HUMANOS",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "645a4b746bb0200970031dc8"
+  },
+  "nombre": "CAROLINA",
+  "paterno": "COCA",
+  "materno": "CESPEDES",
+  "dni": "3809633",
+  "telefono": 72725725,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "DIRECTORA DE MEDIO AMBIENTE Y MADRE TIERRA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2b3"
+  }
+},
+{
+  "_id": {
+    "$oid": "645a4baf6bb0200970031e44"
+  },
+  "nombre": "NOEMI",
+  "paterno": "SANCHEZ",
+  "materno": "LOVERA",
+  "dni": "7916026",
+  "telefono": 67524034,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF II DE CONTROL  AMBIENTAL ",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "645a4c026bb0200970031f6f"
+  },
+  "nombre": "SILVIA",
+  "paterno": "MENESES",
+  "materno": "OVIDIO",
+  "dni": "8024622",
+  "telefono": 63961702,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF.III LICENCIAS AMBIENTALES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2b7"
+  }
+},
+{
+  "_id": {
+    "$oid": "645a4c8f6bb02009700323d2"
+  },
+  "nombre": "RAIZA KATERIN",
+  "paterno": "FLORES",
+  "materno": "PATIÑO",
+  "dni": "7953718",
+  "telefono": 79988575,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV DE MONITOREO AMBIENTAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "645a93956bb020097003930c"
+  },
+  "nombre": "RUTH",
+  "paterno": "GARCIA",
+  "materno": "CONDORI",
+  "dni": "8045723",
+  "telefono": 74373627,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III PROYECTOS DE ECONOMIA MAYORES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "645aa4486bb020097003bbcb"
+  },
+  "nombre": "ABDON",
+  "paterno": "VEIZAGA",
+  "materno": "ARCE",
+  "dni": "5347646",
+  "telefono": 63917125,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III AREAS PROTEGIDAS Y BIODIVERSIDAD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bf1bd5360958f1d1adbcf"
+  },
+  "nombre": "JUAN CARLOS",
+  "paterno": "LOPEZ",
+  "materno": "GUTIERREZ",
+  "dni": "4483564",
+  "telefono": 70798672,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV PSICOLOGO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2bf"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bf33a5360958f1d1adf0f"
+  },
+  "nombre": "ALEJANDRA M.",
+  "paterno": "RIVERA",
+  "materno": "ORTIZ",
+  "dni": "4452146",
+  "telefono": 76490200,
+  "direccion": "CASTILLO-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV TRABAJADORA SOCIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2c1"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bf4565360958f1d1ae16b"
+  },
+  "nombre": "SONNY MARLON",
+  "paterno": "GUTIERREZ",
+  "materno": "MORALES",
+  "dni": "7877939",
+  "telefono": 71762020,
+  "direccion": "EL ABRA BAJA-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ASESOR JURIDICO CATASTRO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bfa5a4061ebeef20be218"
+  },
+  "nombre": "WALTER FERNANDO",
+  "paterno": "BOLIVAR",
+  "materno": "VARGAS",
+  "dni": "6405317",
+  "telefono": 68506116,
+  "direccion": "AV. OCTAVA-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I INF. GEOGRAFICA Y TOPOGRAFICA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2c5"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bfb604061ebeef20be477"
+  },
+  "nombre": "RONALD",
+  "paterno": "SANCHEZ",
+  "materno": "BALDERRAMA",
+  "dni": "7907898",
+  "telefono": 72269013,
+  "direccion": "C/ INDEPENDENCIA - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "645bfc384061ebeef20be5c6"
+  },
+  "nombre": "IVAN",
+  "paterno": "SILES",
+  "materno": "CESPEDES",
+  "dni": "7923777",
+  "telefono": 79354699,
+  "direccion": "AV. VILLAZON 5 1/2 SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO DE ORDENAMIENTO TERRITORIAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "645e609a4d8f6b39c8e3a62e"
+  },
+  "nombre": "GUALBERTO",
+  "paterno": "CHAVEZ",
+  "materno": "MAMANI",
+  "dni": "3811557RPA",
+  "telefono": 69481184,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "RESPONSABLE DEL PROCESO DE CONTRATACION DE APOYO NAL. A LA PROD. EMP (RPA)",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad189"
+  }
+},
+{
+  "_id": {
+    "$oid": "64624a01fd2e973973ab66e4"
+  },
+  "nombre": "DUNIA AMANDA",
+  "paterno": "QUIROZ",
+  "materno": "CONDORI",
+  "dni": "5197736",
+  "telefono": 71743011,
+  "direccion": "BENEMERITOS NORTE-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I CONTRATOS MENORES"
+},
+{
+  "_id": {
+    "$oid": "6462a24efd2e973973ac2f98"
+  },
+  "nombre": "CARLOS",
+  "paterno": "ANDRADE",
+  "materno": "FERRUFINO",
+  "dni": "3819569",
+  "telefono": 75932038,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TOPOGRAFO SANEAMIENTO TECNICO URBANO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "64637dd7fd2e973973ac7898"
+  },
+  "nombre": "SOFIA",
+  "paterno": "MENESES",
+  "materno": "SOLIZ",
+  "dni": "7994293",
+  "telefono": 71790360,
+  "direccion": "TARIJA Y PANDO-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. I DE SEGUIMIENTO Y MONITOREO POA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2d1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6463dbcbfd2e973973ad29aa"
+  },
+  "nombre": "ANDREA NICOLE",
+  "paterno": "COSSIO",
+  "materno": "DE VILLEGAS",
+  "dni": "5308346",
+  "telefono": 79390501,
+  "direccion": "ESMERALDA NORTE - SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. ARCHIVOS D-4",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6464cc6197dca2dff111d45d"
+  },
+  "nombre": "GERMAN LAURO",
+  "paterno": "ORDOÑEZ",
+  "materno": "SERRANO",
+  "dni": "6411902",
+  "telefono": 68597943,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROFESIONAL III DE NORMAS LABORALES Y ADMINISTRATIVA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2d5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6464ce4f97dca2dff111da1c"
+  },
+  "nombre": "JAIME DAVID",
+  "paterno": "ALVAREZ",
+  "materno": "BALDERRAMA",
+  "dni": "7923714",
+  "telefono": 76999952,
+  "direccion": "Sacaba",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC II DE NOTIFICACIONES Y REGISTRO EN SISTEMA RUAT",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2d7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6464e86197dca2dff1121e1e"
+  },
+  "nombre": "JOSE LUIS",
+  "paterno": "VILLCA",
+  "materno": "LUCANA",
+  "dni": "7340906",
+  "telefono": 74472092,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II FARMACIA INSTITUCIONAL MUNICIPAL FIM",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2d9"
+  }
+},
+{
+  "_id": {
+    "$oid": "64652a8297dca2dff112a9d8"
+  },
+  "nombre": "SWINGLER",
+  "paterno": "ZAMBRANA",
+  "materno": "PACHECO",
+  "dni": "6614779",
+  "telefono": 71292267,
+  "direccion": "STADIUM-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE CONTRATACIONES",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad021"
+  }
+},
+{
+  "_id": {
+    "$oid": "64653fc197dca2dff112e8d4"
+  },
+  "nombre": "AMILKAR V.",
+  "paterno": "ANTONIO",
+  "materno": "PEREZ",
+  "dni": "12779455",
+  "telefono": 77492608,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I ADMINISTRATIVO D-2",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "64661fd0432f5009a322aa83"
+  },
+  "nombre": "LUIS SILVESTRE",
+  "paterno": "PEREZ",
+  "materno": "JALDIN",
+  "dni": "6449836",
+  "telefono": 71465793,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. I JURIDICO TRIBUTARIO COBRANZA COACTIVA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2df"
+  }
+},
+{
+  "_id": {
+    "$oid": "64666cd6432f5009a3236374"
+  },
+  "nombre": "D. ROCIO",
+  "paterno": "PRADO",
+  "materno": "ALVAREZ",
+  "dni": "7973683",
+  "telefono": 72227855,
+  "direccion": "PACATA BAJA -SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV JURIDICO DE URBANISMO",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad063"
+  }
+},
+{
+  "_id": {
+    "$oid": "64678b0d1f30566630f95a3d"
+  },
+  "nombre": "JHELITZA JUDITH",
+  "paterno": "BALLESTEROS",
+  "materno": "HERRERA",
+  "dni": "6531922",
+  "telefono": 63840270,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II ASESOR JURIDICO GESTION URBANA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "646caf710b829734adaf6578"
+  },
+  "nombre": "ARMANDO ",
+  "paterno": "NOGALES",
+  "materno": "HEREDIA",
+  "dni": "6511053",
+  "telefono": 69508910,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. I MATADERO MUNICIPAL",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "646d03a458141e98103e8260"
+  },
+  "nombre": "USUARIO",
+  "paterno": "POR",
+  "materno": "ASIGNAR",
+  "dni": "45645645",
+  "telefono": 4444444,
+  "direccion": "SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "oldcargo": "POAAAA",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "646d1c4558141e98103edb7a"
+  },
+  "nombre": "GABY FELICIDAD",
+  "paterno": "TOTORA",
+  "materno": "LLAMPA",
+  "dni": "9420455",
+  "telefono": 76994755,
+  "direccion": "MON-ALCOCER-SACABA",
+  "expedido": "COCHABAMBA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "AUX. CONTABLE DE SALUD",
+  "cargo": {
+    "$oid": "64945d413dd8bf91ac8ad2e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "646e708e192ff3702d3c1170"
+  },
+  "nombre": "LAVINIA",
+  "paterno": "CHILE",
+  "materno": "VILLALTA",
+  "dni": "5918374",
+  "telefono": 444444,
+  "direccion": "Sacaba",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. IV ASESOR JURÍDICO DNA Y SLIM  D-7"
+},
+{
+  "_id": {
+    "$oid": "6475f06710dbb092e256daee"
+  },
+  "nombre": "PAOLA K.",
+  "paterno": "ZAMBRANA",
+  "materno": "CHOQUE",
+  "dni": "7931488",
+  "telefono": 79972662,
+  "direccion": "SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. II CONTROL HIDRICA AMBIENTAL",
+  "cargo": {
+    "$oid": "64b19b7f194dc46c62539796"
+  }
+},
+{
+  "_id": {
+    "$oid": "6475f80e10dbb092e25708b4"
+  },
+  "nombre": "LILIANA",
+  "paterno": "AYALA",
+  "materno": "HINOJOSA",
+  "dni": "9396986",
+  "telefono": 71743151,
+  "direccion": "CIR-SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE SEGUIMIENTO Y MONITORIO SISIN WEB",
+  "cargo": {
+    "$oid": "64b19bb3194dc46c62539a34"
+  }
+},
+{
+  "_id": {
+    "$oid": "647797d910dbb092e25cf55b"
+  },
+  "nombre": "FABIO",
+  "paterno": "MONTAÑO",
+  "materno": "BASCOPE",
+  "dni": "7922204",
+  "telefono": 76943436,
+  "direccion": "SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE LABORATORIO DE SUELOS Y MATERIALES",
+  "cargo": {
+    "$oid": "651f29e5273854a5b3adffbb"
+  }
+},
+{
+  "_id": {
+    "$oid": "647a35541f534808eef79b92"
+  },
+  "nombre": "JAVIER NELSON",
+  "paterno": "ENRIQUEZ",
+  "materno": "DURAN",
+  "dni": "4035342",
+  "telefono": 71397514,
+  "direccion": "SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "JEFE DE SEGURIDAD CIUDADANA",
+  "cargo": {
+    "$oid": "64b19bb3194dc46c62539a27"
+  }
+},
+{
+  "_id": {
+    "$oid": "647de9a51f534808eefa3612"
+  },
+  "nombre": "CHRISTIAN",
+  "paterno": "ARDAYA",
+  "materno": "PEREZ",
+  "dni": "5207435",
+  "telefono": 70771015,
+  "direccion": "SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TECNICO I DE SEÑALIZACION VIAL",
+  "cargo": {
+    "$oid": "651f28cc273854a5b3adfde2"
+  }
+},
+{
+  "_id": {
+    "$oid": "647deae91f534808eefa3f37"
+  },
+  "nombre": "GROVER",
+  "paterno": "VILLARROEL",
+  "materno": "MENDIETA",
+  "dni": "7923436",
+  "telefono": 77432442,
+  "direccion": "10 JUNIO -TRANCA SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "PROF. III DE PAVIMENTOS"
+},
+{
+  "_id": {
+    "$oid": "647f4bc230d72f2cf7b091cc"
+  },
+  "nombre": "ZULMA",
+  "paterno": "GUEVARA",
+  "materno": "CANAVIRI",
+  "dni": "13620169",
+  "telefono": 68470995,
+  "direccion": "KORIHUMA II - SACABA",
+  "activo": true,
+  "cuenta": true,
+  "__v": 0,
+  "oldcargo": "TEC. III CONTRATACIONES MENORES DE SALUD",
+  "cargo": {
+    "$oid": "64b19bb3194dc46c62539a2d"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a5bcb6e411ad54deda3cf8"
+  },
+  "nombre": "RIVER",
+  "paterno": "FIORILO",
+  "materno": "MENESES",
+  "telefono": 4444,
+  "dni": "434434",
+  "direccion": "SACABA",
+  "activo": true,
+  "cuenta": false,
+  "__v": 0,
+  "cargo": {
+    "$oid": "64b19b7f194dc46c62539797"
+  }
+}]

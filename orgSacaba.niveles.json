@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e4d"
+  },
+  "nivel": 1,
+  "sueldo": 10000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e4e"
+  },
+  "nivel": 2,
+  "sueldo": 9000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e4f"
+  },
+  "nivel": 3,
+  "sueldo": 7000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e50"
+  },
+  "nivel": 4,
+  "sueldo": 6000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e51"
+  },
+  "nivel": 5,
+  "sueldo": 5000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e52"
+  },
+  "nivel": 6,
+  "sueldo": 4000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e53"
+  },
+  "nivel": 7,
+  "sueldo": 3500,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e54"
+  },
+  "nivel": 8,
+  "sueldo": 3000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e55"
+  },
+  "nivel": 9,
+  "sueldo": 2800,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e56"
+  },
+  "nivel": 10,
+  "sueldo": 2500,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e57"
+  },
+  "nivel": 11,
+  "sueldo": 2000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e58"
+  },
+  "nivel": 12,
+  "sueldo": 1800,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64b17477194dc46c62538e59"
+  },
+  "nivel": 13,
+  "sueldo": 1500,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02
+},
+{
+  "_id": {
+    "$oid": "64d698e0e3c4d9be5c9612ce"
+  },
+  "nivel": 14,
+  "sueldo": 1000,
+  "cajaSalud": 0.1,
+  "solidario": 0.03,
+  "profecional": 0.0171,
+  "proVivienda": 0.02,
+  "__v": 0
+}]

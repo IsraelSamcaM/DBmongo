@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6532e509f08a63bbc977e3b5"
+  },
+  "nombre": "DIR B",
+  "depende_de": {
+    "$oid": "6532ec504993bdafa38e3824"
+  },
+  "sigla": "B.B.B",
+  "tipo": "DIRECCION",
+  "estado": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6532eb614993bdafa38e3800"
+  },
+  "nombre": "DIR A",
+  "sigla": "A.A.A",
+  "tipo": "DIRECCION",
+  "encargado": null,
+  "estado": true,
+  "__v": 0,
+  "depende_de": {
+    "$oid": "6532fa71c621a1744e0bbc5a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6532ec504993bdafa38e3824"
+  },
+  "nombre": "JEF B",
+  "sigla": "B.B",
+  "tipo": "JEFATURA",
+  "estado": true,
+  "__v": 0,
+  "depende_de": {
+    "$oid": "653aabe4165e0f5b12a2f192"
+  }
+},
+{
+  "_id": {
+    "$oid": "6532fa71c621a1744e0bbc5a"
+  },
+  "nombre": "JEF A",
+  "sigla": "A.A",
+  "tipo": "JEFATURA",
+  "encargado": null,
+  "estado": true,
+  "__v": 0,
+  "depende_de": {
+    "$oid": "653ab1f1165e0f5b12a2f40c"
+  }
+},
+{
+  "_id": {
+    "$oid": "653aabe4165e0f5b12a2f192"
+  },
+  "nombre": "SECRE B",
+  "sigla": "B",
+  "tipo": "SECRETARIA",
+  "estado": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653ab1f1165e0f5b12a2f40c"
+  },
+  "nombre": "SECRE A",
+  "sigla": "A",
+  "tipo": "SECRETARIA",
+  "estado": true,
+  "__v": 0,
+  "encargado": {
+    "$oid": "64b19bb3194dc46c62539a42"
+  }
+}]
